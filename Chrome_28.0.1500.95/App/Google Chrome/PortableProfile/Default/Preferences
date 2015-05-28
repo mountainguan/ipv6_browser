@@ -1,0 +1,2911 @@
+{
+   "bookmark_bar": {
+      "show_on_all_tabs": true
+   },
+   "bookmark_editor": {
+      "expanded_nodes": [ "1" ]
+   },
+   "browser": {
+      "check_default_browser": true,
+      "clear_data": {
+         "browsing_history": true,
+         "cache": true,
+         "content_licenses": false,
+         "cookies": true,
+         "download_history": true,
+         "form_data": true,
+         "hosted_apps_data": false,
+         "passwords": true,
+         "time_period": 4
+      },
+      "clear_lso_data_enabled": true,
+      "last_clear_browsing_data_time": "13061986002486861",
+      "last_known_google_url": "https://www.google.com.hk/",
+      "last_prompted_google_url": "https://www.google.com.hk/",
+      "pepper_flash_settings_enabled": true,
+      "show_home_button": true,
+      "window_placement": {
+         "bottom": 748,
+         "left": 330,
+         "maximized": true,
+         "right": 1428,
+         "top": 16,
+         "work_area_bottom": 768,
+         "work_area_left": 62,
+         "work_area_right": 1366,
+         "work_area_top": 0
+      },
+      "window_placement_DevToolsApp": {
+         "always_on_top": false,
+         "bottom": 715,
+         "left": 80,
+         "maximized": false,
+         "right": 1366,
+         "top": 264,
+         "work_area_bottom": 768,
+         "work_area_left": 80,
+         "work_area_right": 1366,
+         "work_area_top": 0
+      }
+   },
+   "cloud_print": {
+      "email": ""
+   },
+   "countryid_at_install": 17230,
+   "default_apps_install_state": 2,
+   "default_search_provider": {
+      "alternate_urls": [ "{google:baseURL}#q={searchTerms}", "{google:baseURL}search#q={searchTerms}", "{google:baseURL}webhp#q={searchTerms}" ],
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.google.com/favicon.ico",
+      "id": "2",
+      "instant_url": "{google:baseURL}webhp?sourceid=chrome-instant&{google:RLZ}{google:instantEnabledParameter}{google:instantExtendedEnabledParameter}{google:ntpIsThemedParameter}{google:omniboxStartMarginParameter}ie={inputEncoding}",
+      "keyword": "google.com.hk",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_terms_replacement_key": "espv",
+      "search_url": "{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:searchClient}{google:sourceId}{google:instantExtendedEnabledParameter}ie={inputEncoding}",
+      "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client=chrome&q={searchTerms}&{google:cursorPosition}{google:zeroPrefixUrl}sugkey={google:suggestAPIKeyParameter}"
+   },
+   "devtools": {
+      "dock_side": "dock_bottom",
+      "split_location": 222
+   },
+   "dns_prefetching": {
+      "host_referral_list": [ 2 ],
+      "startup_list": [ 1, "http://blacklist.tampermonkey.net/", "http://fonts.googleapis.com/", "http://img.duoluohua.com/", "http://s3.amazonaws.com/", "http://userscripts.org/", "http://www.xiami.com/", "https://greasyfork.org/", "https://ssl.google-analytics.com/", "https://userscripts.org/", "https://www.google.com/" ]
+   },
+   "download": {
+      "directory_upgrade": true,
+      "prompt_for_download": true
+   },
+   "extensions": {
+      "alerts": {
+         "initialized": true
+      },
+      "autoupdate": {
+         "last_check": "13061984825709901",
+         "next_check": "13077294091468702"
+      },
+      "blacklistupdate": {
+         "lastpingday": "13061980837047901",
+         "version": "0.0.0.149"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "last_chrome_version": "28.0.1500.95",
+      "settings": {
+         "aakhlmakppmkkmfkoibponkmmpgpmjgl": {
+            "blacklist": true
+         },
+         "aandpgohbohmlknpjbblpmoladhoochg": {
+            "blacklist": true
+         },
+         "aangdcfipmfploijfkoonkajgpdkfmbm": {
+            "blacklist": true
+         },
+         "abciiempgohamehppammbkhkicmkgkob": {
+            "blacklist": true
+         },
+         "abfclfmhaemoockhhinpplncjehfpdbd": {
+            "blacklist": true
+         },
+         "abidmaanmbfeddegmapgpjhdmgjaloen": {
+            "blacklist": true
+         },
+         "acchaoeabgiclhngknbkegekbfphgndl": {
+            "blacklist": true
+         },
+         "acmpfcamncegnhjdeiodgilikjafcamg": {
+            "blacklist": true
+         },
+         "acomnmbomlajgjbcijkflekoojdfcldj": {
+            "blacklist": true
+         },
+         "aconhjfogglfnkjhkjipaifepjklolog": {
+            "blacklist": true
+         },
+         "aebfkgcamgnimcbnbiopgdakknjgggnm": {
+            "blacklist": true
+         },
+         "aemcjbfajnnmhblifaejadoecfoaebld": {
+            "blacklist": true
+         },
+         "afenhmponmfmdmbmccbmglppcmjhmhmh": {
+            "blacklist": true
+         },
+         "aglmapjbjphdidmnileogpjkgpdoliep": {
+            "blacklist": true
+         },
+         "agmhonoepgcnakccfpidhjehlocaeaaj": {
+            "blacklist": true
+         },
+         "agodbcffjkjcnceklapkjfcmkfepmbgm": {
+            "blacklist": true
+         },
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "active_bit": true,
+            "active_permissions": {
+               "api": [ "management", "webstorePrivate" ]
+            },
+            "app_launcher_ordinal": "n",
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13021060730406625",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://chrome.google.com/webstore"
+                  },
+                  "urls": [ "https://chrome.google.com/webstore" ]
+               },
+               "description": "Chrome Web Store",
+               "icons": {
+                  "128": "webstore_icon_128.png",
+                  "16": "webstore_icon_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtl3tO0osjuzRsf6xtD2SKxPlTfuoy7AWoObysitBPvH5fE1NaAA1/2JkPWkVDhdLBWLaIBPYeXbzlHp3y4Vv/4XG+aN5qFE3z+1RU/NqkzVYHtIpVScf3DjTYtKVL66mzVGijSoAIwbFCC3LpGdaoe6Q1rSRDp76wR6jjFzsYwQIDAQAB",
+               "name": "Store",
+               "permissions": [ "webstorePrivate", "management" ],
+               "version": "0.2"
+            },
+            "page_ordinal": "n",
+            "path": "D:\\Qiang\\\u7A7F\u8D8A\\GoogleChrome_28.0.1500.95_\u4FBF\u643A\u7248\\GoogleChromePortable\\App\\Google Chrome\\resources\\web_store",
+            "was_installed_by_default": false
+         },
+         "ahjfgnikolodijnpakeknpilnemojlhc": {
+            "blacklist": true
+         },
+         "aieglpnmmhleoenpbmfaffppfomgjmba": {
+            "blacklist": true
+         },
+         "aieihijcjcccdiepockaiekhpflicdii": {
+            "blacklist": true
+         },
+         "aifmjmboebdkdelpjenakhaodgneempp": {
+            "blacklist": true
+         },
+         "ajlkjjdbgcjdiklbcomhnfghjigfccoh": {
+            "blacklist": true
+         },
+         "ajneiojjdhceikkgmhnjhgaacpfhldpi": {
+            "blacklist": true
+         },
+         "akadaakimgegecohlifeejdnnjbnobop": {
+            "blacklist": true
+         },
+         "akbdojiajlefghcdclgkgmbbljamgehd": {
+            "blacklist": true
+         },
+         "alcbnnpmipohgdllkkglhkbncijplago": {
+            "blacklist": true
+         },
+         "aldalonecchncedclgcndcndgilaclnk": {
+            "blacklist": true
+         },
+         "alfahpoknocfdebmiclonikapcnljlob": {
+            "blacklist": true
+         },
+         "aljdncnajablgppdcfbehhmidlmbndda": {
+            "blacklist": true
+         },
+         "amfgdngndpfldigimkcindjalokfnmem": {
+            "blacklist": true
+         },
+         "amoobcjlpgloocplpikcldcpjjdnoeii": {
+            "blacklist": true
+         },
+         "anmjpohfnlopdfaojooicpemopnliimn": {
+            "blacklist": true
+         },
+         "aofechiiopolnegcjcddgedjabmkemhf": {
+            "blacklist": true
+         },
+         "aojicjocmihiopalnhjikigammkhgckb": {
+            "blacklist": true
+         },
+         "aokenbhllkgpooaacldiamnpmmgkjblo": {
+            "blacklist": true
+         },
+         "apdebchnkegjokdjplmfmepcdgneemhe": {
+            "blacklist": true
+         },
+         "apdmgffkfhjfeejmbjidennfjdkmmmbl": {
+            "blacklist": true
+         },
+         "aphncaagnlabkeipnbbicmcahnamibgb": {
+            "blacklist": true
+         },
+         "bccdgfmbcjkfkinkkagaflgdaoaamogo": {
+            "blacklist": true
+         },
+         "bcddmcejgphfgofbpoocakaeapfomlek": {
+            "blacklist": true
+         },
+         "bckhfnghfdponbaldednpnljadgfjecj": {
+            "blacklist": true
+         },
+         "bdgijcibmhjjccgbdohofncdjcophknj": {
+            "blacklist": true
+         },
+         "benclngoadbppljglhphhnfknoppmjoa": {
+            "blacklist": true
+         },
+         "bhdkpmneahdelgdgfhddianklldfoell": {
+            "blacklist": true
+         },
+         "bhkdpodceenlocjmmgodpbbpkafkpljc": {
+            "blacklist": true
+         },
+         "bhmahaiplmeodpakkcchmolaihbhkpdl": {
+            "blacklist": true
+         },
+         "biiponhbbifajapmbggbgaepiedinifm": {
+            "blacklist": true
+         },
+         "bilgncckogfgfipdlejkffnbkgjkmflh": {
+            "blacklist": true
+         },
+         "bioeopenmokdgbekbgpgnacecjmpckbb": {
+            "blacklist": true
+         },
+         "bjihddggcgnblgojnmhpnngonofbnkaj": {
+            "blacklist": true
+         },
+         "bkhafliomebnpccanacmlfaemgfiofko": {
+            "blacklist": true
+         },
+         "bkkchglolnigbfncnbnnbhhempjkdpkf": {
+            "blacklist": true
+         },
+         "bkplhcigeaiiliajeehehiikokgocbhb": {
+            "blacklist": true
+         },
+         "bldgnkigdcpgnbfehgbameigoohecdfl": {
+            "blacklist": true
+         },
+         "bmjhmeeepkkbmjdajachipfgihmpokpd": {
+            "blacklist": true
+         },
+         "bndahdijlcnncjbpammoedeapmlobllc": {
+            "blacklist": true
+         },
+         "bnffnggkphadlnoopcoakdnkellnifjp": {
+            "blacklist": true
+         },
+         "boaoagnmpennjoigkkmnjhecapibhfko": {
+            "blacklist": true
+         },
+         "boclfockfmgcppbajihcgajhpggaakgl": {
+            "blacklist": true
+         },
+         "bokkificjhapflinbdejegngffgkcgfe": {
+            "blacklist": true
+         },
+         "bpfadpmhabiajakhgnaipdplkcjaklnj": {
+            "blacklist": true
+         },
+         "canhmdgddepdjikkjhpmhcfdkkjdbppi": {
+            "blacklist": true
+         },
+         "caphkimknlmnhpjoneddiaakmcaajagb": {
+            "blacklist": true
+         },
+         "cbbbpmlnlpnjojeplppgeilanlihoojg": {
+            "blacklist": true
+         },
+         "cbbjhegipokkofhhicbckicchjpcpeni": {
+            "blacklist": true
+         },
+         "cbdjiinahkdjdcdlgfimlcolkjpbooja": {
+            "active_permissions": {
+               "scriptable_host": [ "http://*.youtube.com/watch*", "https://*.youtube.com/watch*" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "granted_permissions": {
+               "scriptable_host": [ "http://*.youtube.com/watch*", "https://*.youtube.com/watch*" ]
+            },
+            "install_time": "13035139921343389",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "scripts": [ "script/background.js" ]
+               },
+               "content_scripts": [ {
+                  "css": [ "css/Chrome-YouTube-Downloader.css" ],
+                  "js": [ "script/Chrome-YouTube-Downloader.js" ],
+                  "matches": [ "http://*.youtube.com/watch*", "https://*.youtube.com/watch*" ],
+                  "run_at": "document_end"
+               } ],
+               "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self' https://www.youtube.com; object-src 'self' mandel-design.xf.cz; ",
+               "current_locale": "zh_CN",
+               "default_locale": "en",
+               "description": "\u4ECEYouTube\u4E0B\u8F7D\u89C6\u9891\uFF01\u8FD9\u5F88\u5BB9\u6613...",
+               "homepage_url": "http://mandel-design.xf.cz/Chrome-Youtube-Downloader/",
+               "icons": {
+                  "128": "images/icon.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNtIpeW8o60bZauBc9fhh9+AnozUl5gU9y3JlgDmpD6O+t1XAVcxylaZ4wMyK4afjiqacb2JWbdf7sBhQPjcbiWlwkdWFJ3WJHwk2hfMeRTSAxDiH4ipXx38ejnmMhA9hEsce3DhGUkv7U/tJ9JHs10YExrO5cfKNo4FwMMFzn2QIDAQAB",
+               "manifest_version": 2,
+               "name": "Chrome YouTube Downloader",
+               "options_page": "html/options.html",
+               "update_url": "https://dl.dropbox.com/u/9278456/Chrome_YouTube_Downloader/update.xml",
+               "version": "2.6.20",
+               "web_accessible_resources": [ "images/options.png", "images/arrow.png", "html/options.html" ]
+            },
+            "path": "cbdjiinahkdjdcdlgfimlcolkjpbooja\\2.6.20_0",
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "cbhhdkemlehgodemcigfabmcdnohhhef": {
+            "blacklist": true
+         },
+         "cbjlfaogacjpkplebfbijaakaifoflno": {
+            "blacklist": true
+         },
+         "cconecmbohgadkjghlfbchmjpgbobkaf": {
+            "blacklist": true
+         },
+         "cdogaeccgljmkecjmoedambgiekkllij": {
+            "blacklist": true
+         },
+         "cedclbokcakighlpbnbhfjffdjeihfdp": {
+            "blacklist": true
+         },
+         "cekdjgnecpoooikhmceokdhojckkkhmh": {
+            "blacklist": true
+         },
+         "cepfogmgfkddnllaopgknbdfkceejmhk": {
+            "blacklist": true
+         },
+         "cfbdodejdeejbkffcmiaknpmojjeibpn": {
+            "blacklist": true
+         },
+         "cfdedhfmaeiheeklgodcmcgfpedooocj": {
+            "blacklist": true
+         },
+         "cfhdojbkjhnklbpkdaibdccddilifddb": {
+            "active_permissions": {
+               "api": [ "contextMenus", "notifications", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "http://*/*", "https://*/*" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "contextMenus", "notifications", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "http://*/*", "https://*/*" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "install_time": "13044295094241246",
+            "lastpingday": "13061980837307901",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "scripts": [ "ext/common.js", "ext/background.js", "lib/compat.js", "lib/info.js", "lib/io.js", "lib/adblockplus.js", "lib/punycode.js", "lib/publicSuffixList.js", "lib/basedomain.js", "lib/sha1.js", "lib/jsbn.js", "lib/rsa.js", "webrequest.js", "popupBlocker.js", "iconAnimation.js", "background.js" ]
+               },
+               "browser_action": {
+                  "default_icon": {
+                     "19": "icons/abp-19.png",
+                     "38": "icons/abp-38.png"
+                  },
+                  "default_popup": "popup.html",
+                  "default_title": "Adblock Plus"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "js": [ "ext/common.js", "ext/content.js", "include.preload.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_start"
+               }, {
+                  "all_frames": true,
+                  "js": [ "include.postload.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_end"
+               } ],
+               "current_locale": "zh_CN",
+               "default_locale": "en_US",
+               "description": "\u7528\u4E8EChrome \u6D4F\u89C8\u5668\u7684\u514D\u8D39\u7684\u5E7F\u544A\u62E6\u622A\u5DE5\u5177\uFF1A\u62E6\u622A Youtube \u4E0A\u70E6\u4EBA\u7684\u89C6\u9891\u5E7F\u544A\u3001Facebook\u4E0A\u7684\u5E7F\u544A\u3001\u6A2A\u5E45\u5E7F\u544A\u4EE5\u53CA\u5176\u4ED6\u5E7F\u544A\u3002",
+               "icons": {
+                  "128": "icons/abp-128.png",
+                  "16": "icons/abp-16.png",
+                  "32": "icons/abp-32.png",
+                  "48": "icons/abp-48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxGWIIBRUVzQIXITqE6+js1FA24fsZC58G0fxcO1Duwfps+9gip5tedTziErKEpeAQVkgasdT4kk+b6Lw27yp3oysAj6zD9j+j4W+EMArTXqMIc6SMYD7Z8bPcwPb3tC1MUxMSpO6oOVpFE23UhKe91SYnrK92nHI2cmsor5elXQIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "28.0",
+               "name": "Adblock Plus",
+               "options_page": "options.html",
+               "permissions": [ "tabs", "http://*/*", "https://*/*", "contextMenus", "webRequest", "webRequestBlocking", "webNavigation", "unlimitedStorage", "notifications" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "1.8.1",
+               "web_accessible_resources": [ "block.html" ]
+            },
+            "path": "cfhdojbkjhnklbpkdaibdccddilifddb\\1.8.1_0",
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "cfnfobbpdaccoljfahpmfjdmbfmmkeof": {
+            "blacklist": true
+         },
+         "cfogpbanfnocakdckmgafapdlmclpiln": {
+            "blacklist": true
+         },
+         "cgnegjfmdfenjojhjffejinpnpoglmlh": {
+            "blacklist": true
+         },
+         "cgnkbnaiipmfbakpmhllalggoepniemh": {
+            "blacklist": true
+         },
+         "chhniecmnighakmlnhkifeogjddhoajn": {
+            "blacklist": true
+         },
+         "chlplighidmhpgmidehfmjfdlahakjog": {
+            "blacklist": true
+         },
+         "cidnoinjdbalndcidafahfnoeehfblfl": {
+            "blacklist": true
+         },
+         "cihlkpohodpdkdnfalhdkhhlhmhffmbe": {
+            "blacklist": true
+         },
+         "cjhklhdjonhcohlacgggcbklpnldleck": {
+            "blacklist": true
+         },
+         "cjohbbapkbkkhpohinffggbphnhoblea": {
+            "blacklist": true
+         },
+         "ckckpgefkpjfopjppjfcikppehdhceah": {
+            "blacklist": true
+         },
+         "ckphhghhpjbfddcgkpfbelfeojcciglo": {
+            "blacklist": true
+         },
+         "clapnamcglekekmamicmbahkghdcjaeh": {
+            "blacklist": true
+         },
+         "clfhanhcjmgjnbpjfopldmnabimhmcmp": {
+            "blacklist": true
+         },
+         "cmjphjljejnfgdbkdgdlclaabimpknna": {
+            "blacklist": true
+         },
+         "cmlokmkdolieoaoddlfhaidnlmiadhik": {
+            "blacklist": true
+         },
+         "cmnfphnmpedeolmelllmgkghmjcnlajp": {
+            "blacklist": true
+         },
+         "cngicmmkocjjbmacacmchjhdimdhfgod": {
+            "ack_external": true,
+            "active_permissions": {
+               "api": [ "tabs" ],
+               "explicit_host": [ "http://*/*", "https://*/*" ],
+               "scriptable_host": [ "file:///*.*", "ftp://*/*", "http://*/*", "https://*/*" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13023637504935625",
+            "location": 3,
+            "manifest": {
+               "background_page": "background.html",
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "js": [ "grabword.js" ],
+                  "matches": [ "http://*/*", "https://*/*", "ftp://*/*", "file://*.*" ]
+               } ],
+               "current_locale": "zh_CN",
+               "default_locale": "zh_CN",
+               "description": "\u8F85\u52A9\u91D1\u5C71\u8BCD\u9738\u5728\u6D4F\u89C8\u5668\u4E2D\u5B9E\u73B0\u9F20\u6807\u53D6\u8BCD",
+               "homepage_url": "http://www.iciba.com/",
+               "icons": {
+                  "128": "icons/icon128.png",
+                  "16": "icons/icon16.png",
+                  "48": "icons/icon48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD8s7xx4cFWKtsietDPuiIcXOYOonhTJCpVIieiX6c4770AhEfE98whctoS9EY9UhnCCqqD085MUgJBJuzVKmJqffI/ARsSoYZCfUGqtSgXPQ9zyzCk2xykDaM/ywspx0BXqsCatPZfXHV+0SOcX6+vMHUAgogTu2UXN4HOnWeMKQIDAQAB",
+               "name": "\u91D1\u5C71\u8BCD\u9738\u9F20\u6807\u53D6\u8BCD",
+               "permissions": [ "http://*/*", "https://*/*", "tabs" ],
+               "version": "2.1"
+            },
+            "path": "cngicmmkocjjbmacacmchjhdimdhfgod\\2.1_0",
+            "state": 2,
+            "was_installed_by_default": false
+         },
+         "cnimdnlablahacgompaahbgohcokcclp": {
+            "blacklist": true
+         },
+         "cniodhfhdiidogekcjkplecimemfocpn": {
+            "blacklist": true
+         },
+         "coajchbkdbfhmhbgcjepiofllfjjcpfp": {
+            "blacklist": true
+         },
+         "copjbedljgpkaakkmbhgkpoaadeahido": {
+            "blacklist": true
+         },
+         "cpiiakoibaohkfoaijaigdnocfolnmll": {
+            "blacklist": true
+         },
+         "dadcalgappognjbjpalfophhcfakoeac": {
+            "blacklist": true
+         },
+         "danapgfidmepmcfbjjacceiaiiioieio": {
+            "blacklist": true
+         },
+         "dbanhghadfmjndnjmmejdgfdmgidlbpm": {
+            "blacklist": true
+         },
+         "dbiblcmlcgdjjbdpbmbcpineegngkiip": {
+            "blacklist": true
+         },
+         "dbmdicehacbaohlockjgdglcobimmjkh": {
+            "blacklist": true
+         },
+         "dcfefnkefopibnlcjhjcfegckhanekld": {
+            "blacklist": true
+         },
+         "dcpjokbfgfnbaekphjgehhjaokkcifbj": {
+            "blacklist": true
+         },
+         "dejippphmhbpgckbhdidnjmdcpfccbaj": {
+            "blacklist": true
+         },
+         "deocpjmfifplhepinpkmpinpnbiemfje": {
+            "blacklist": true
+         },
+         "deonbedlmakdddidplniclflladdjoep": {
+            "blacklist": true
+         },
+         "dfafokiagoiocidlpglcanjkcdbdnioi": {
+            "blacklist": true
+         },
+         "dfjhgoeofgmepmcngkhnaiphbhdbonhp": {
+            "blacklist": true
+         },
+         "dfoegfajplmijblljfancdapbdaopebb": {
+            "blacklist": true
+         },
+         "dgaehaeahdegbdlenicbmkbakhdgoeml": {
+            "blacklist": true
+         },
+         "dgcfmgdfbfbgcpbendbhbkfjppboebed": {
+            "blacklist": true
+         },
+         "dgkemngdheppgohkjjelnkjmdeimmfml": {
+            "blacklist": true
+         },
+         "dhclobcklknojliojkkclgjndemadnig": {
+            "blacklist": true
+         },
+         "dhdepfaagokllfmhfbcfmocaeigmoebo": {
+            "blacklist": true
+         },
+         "dhdgffkkebhmkfjojejmpbldmpobfkfo": {
+            "active_permissions": {
+               "api": [ "clipboardWrite", "idle", "management", "notifications", "storage", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "scriptable_host": [ "file:///*", "http://*/*", "https://*/*" ]
+            },
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "clipboardWrite", "idle", "management", "notifications", "storage", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "scriptable_host": [ "file:///*", "http://*/*", "https://*/*" ]
+            },
+            "install_time": "13044295098087246",
+            "lastpingday": "13061980837307901",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "page": "background.html"
+               },
+               "browser_action": {
+                  "default_icon": "images/icon_grey.png",
+                  "default_popup": "action.html",
+                  "default_title": "Tampermonkey"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "js": [ "registry.js", "prepare.js", "convert.js", "helper.js", "xmlhttprequest.js", "emulation.js", "jslint.js", "environment.js", "content.js" ],
+                  "matches": [ "file://*", "http://*/*", "https://*/*" ],
+                  "run_at": "document_start"
+               } ],
+               "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+               "current_locale": "zh_CN",
+               "default_locale": "en",
+               "description": "The most popular userscript manager for Blink-based browsers",
+               "icons": {
+                  "128": "images/icon128.png",
+                  "32": "images/icon.png",
+                  "48": "images/icon48.png"
+               },
+               "incognito": "split",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDjiyuc6OWY8gaVTe+b16fH2BBe0PQLMeUpEXSQvyv5a/6OiQ1D8bBLTfLvApD3zT2MZoXWu2KUILdkyg5OC/Tru8m+Js6e3RjHY9Rqbvnh8CJQgTJ+63L5w9aLsTvA2fqdDfhw8Mnl1GMcJd/RI/ZiBEm0stog0ZfyQjD1jpSEXQIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "20.0.0.0",
+               "name": "Tampermonkey",
+               "optional_permissions": [ "contentSettings" ],
+               "options_page": "options.html",
+               "permissions": [ "notifications", "unlimitedStorage", "tabs", "idle", "management", "webNavigation", "webRequest", "webRequestBlocking", "storage", "chrome://favicon/", "clipboardWrite", "\u003Call_urls\u003E" ],
+               "short_name": "Tampermonkey",
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "3.7.48"
+            },
+            "path": "dhdgffkkebhmkfjojejmpbldmpobfkfo\\3.7.48_0",
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "dhmghpedmigfknfpolfmkihcaeiccjgf": {
+            "blacklist": true
+         },
+         "dibljdngacjhpccjckmlmeklpgjeinjd": {
+            "blacklist": true
+         },
+         "digmihafmlfkgdbjjdgbcojghcgcoeoa": {
+            "blacklist": true
+         },
+         "diinokaoicgobepmadnmedlhdfnpehcj": {
+            "blacklist": true
+         },
+         "dinhjcapnfbffhiihdlnbdfjdjjfhcbk": {
+            "blacklist": true
+         },
+         "djjddbeligongockkakmbfdngdjdnagb": {
+            "blacklist": true
+         },
+         "djnahdkbfgnhgpakidinfonfcjbagkgp": {
+            "blacklist": true
+         },
+         "djpnjilhooodipllnjedjeiabkboakok": {
+            "blacklist": true
+         },
+         "dkhkecikbdfpoiopnnpoeglbdphgflmf": {
+            "blacklist": true
+         },
+         "dkpdmjefniplpkalcgnainfmmclllpnn": {
+            "blacklist": true
+         },
+         "dlobhinihbmedmheccecfnkcadpehmbf": {
+            "blacklist": true
+         },
+         "dlopielgodpjhkbapdlbbicpiefpaack": {
+            "blacklist": true
+         },
+         "dmabikjmolgegjajdhmgpmgffajlmmkb": {
+            "blacklist": true
+         },
+         "dmhgenmamfphbclmhdgmffajkfommkom": {
+            "blacklist": true
+         },
+         "dmhjdbigobajgnfoabodjgmcdgoeoljm": {
+            "blacklist": true
+         },
+         "dmkdhgkknhnfpdjeicefnpmhcpbimden": {
+            "blacklist": true
+         },
+         "dnemhlkdpajbbniphgkgceplmnkfnhfo": {
+            "blacklist": true
+         },
+         "doneghboglgnflpdicnkaojmmljgejkj": {
+            "blacklist": true
+         },
+         "dpaphgcjeeochbiafgbochohgmpcmlbj": {
+            "blacklist": true
+         },
+         "dpcdiabehkofdddfhdmkgkndjilfoppd": {
+            "blacklist": true
+         },
+         "dpfanoongnoofcdhgijjdjmbnfekdejj": {
+            "blacklist": true
+         },
+         "dpgenihgggagjjggfocjceeobjkadcbc": {
+            "blacklist": true
+         },
+         "dpmloehicimdjkibmobhmpgdndgbcced": {
+            "blacklist": true
+         },
+         "dpplabbmogkhghncfbfdeeokoefdjegm": {
+            "active_permissions": {
+               "api": [ "proxy", "tabs" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*", "ftp://*/*", "http://*/*", "https://*/*" ]
+            },
+            "browser_action_visible": false,
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "proxy", "tabs" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ]
+            },
+            "install_time": "13041855021929774",
+            "lastpingday": "13061980837307901",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "page": "main.html"
+               },
+               "browser_action": {
+                  "default_icon": "assets/images/icon-blue.png",
+                  "default_popup": "popup.html",
+                  "default_title": "[\u8F7D\u5165\u4E2D\u2026\u2026]"
+               },
+               "current_locale": "zh_CN",
+               "default_locale": "en",
+               "description": "\u8F7B\u677E\u5FEB\u6377\u5730\u7BA1\u7406\u548C\u5207\u6362\u591A\u4E2A\u4EE3\u7406\u8BBE\u7F6E\u3002\u57FA\u4E8E \"Proxy Switchy!\" \u548C \"SwitchyPlus\" \u5F00\u53D1\u3002",
+               "homepage_url": "https://chrome.google.com/webstore/detail/dpplabbmogkhghncfbfdeeokoefdjegm",
+               "icons": {
+                  "128": "assets/images/icon-128.png",
+                  "16": "assets/images/icon.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDahyAUyTKTIkdG3wl6l3yymaWKuIw1qd0qUPcvdkA+9twISbaHjA6PKgh+/RvuUOwacjl47QSpkmgEHK+uUzre3+fbwOhifbnkJ7ZVS7ii92IxCgBf8S7ht2ccAmXIiH4UKAFOonBcGywaJWmGpiYBcc8eBLT9kiGqGTjZBTBkBwIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "18.0.0",
+               "name": "Proxy SwitchySharp",
+               "options_page": "options.html",
+               "permissions": [ "proxy", "tabs", "\u003Call_urls\u003E", "http://*/*", "https://*/*", "ftp://*/*" ],
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "1.10.4"
+            },
+            "path": "dpplabbmogkhghncfbfdeeokoefdjegm\\1.10.4_0",
+            "preferences": {
+               "proxy": {
+                  "mode": "pac_script",
+                  "pac_mandatory": false,
+                  "pac_url": "data:application/x-ns-proxy-autoconfig;base64,ZnVuY3Rpb24gcmVnRXhwTWF0Y2godXJsLCBwYXR0ZXJuKSB7ICAgIHRyeSB7IHJldHVybiBuZXcgUmVnRXhwKHBhdHRlcm4pLnRlc3QodXJsKTsgfSBjYXRjaChleCkgeyByZXR1cm4gZmFsc2U7IH0gICAgfQogICAgZnVuY3Rpb24gRmluZFByb3h5Rm9yVVJMKHVybCwgaG9zdCkgewoJaWYgKHNoRXhwTWF0Y2godXJsLCAiKi5kZ3V0LmVkdS5jbi8qIikgfHwgc2hFeHBNYXRjaCh1cmwsICIqOi8vZGd1dC5lZHUuY24vKiIpKSByZXR1cm4gJ0RJUkVDVCc7CglpZiAoc2hFeHBNYXRjaCh1cmwsICIqYnQubmV1Ni5lZHUuY24vKiIpKSByZXR1cm4gJ0RJUkVDVCc7CglpZiAoc2hFeHBNYXRjaCh1cmwsICIqMTcyLjMxLjEuNTEvKiIpKSByZXR1cm4gJ0RJUkVDVCc7CglpZiAoc2hFeHBNYXRjaCh1cmwsICIqLmRndXQuY24vKiIpIHx8IHNoRXhwTWF0Y2godXJsLCAiKjovL2RndXQuY24vKiIpKSByZXR1cm4gJ0RJUkVDVCc7CglpZiAoc2hFeHBNYXRjaCh1cmwsICIqbmljenkuZGd1dC5lZHUuY246MTY4MC8qIikpIHJldHVybiAnRElSRUNUJzsKCWlmIChzaEV4cE1hdGNoKHVybCwgIioxOTIuMTY4LjI1Mi44LyoiKSkgcmV0dXJuICdESVJFQ1QnOwoJaWYgKHNoRXhwTWF0Y2godXJsLCAiKjIxOS4yMjIuMTkxLjM1OjE2ODAvKiIpKSByZXR1cm4gJ0RJUkVDVCc7CglpZihzaEV4cE1hdGNoKGhvc3QsICdsb2NhbGhvc3QnKSkgcmV0dXJuICdESVJFQ1QnOwoJaWYoc2hFeHBNYXRjaChob3N0LCAnMTI3LjAuMC4xJykpIHJldHVybiAnRElSRUNUJzsKCWlmKHNoRXhwTWF0Y2goaG9zdCwgJzxsb2NhbD4nKSkgcmV0dXJuICdESVJFQ1QnOwoJcmV0dXJuICdQUk9YWSAxMjcuMC4wLjE6ODA4Nyc7Cn0="
+               }
+            },
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "eagmciolnojfofmggkffclbonhleeank": {
+            "blacklist": true
+         },
+         "ebdcdchjcndpjhehacedepnggfdbfkpn": {
+            "blacklist": true
+         },
+         "ebhdpnhjbfkchfamjcpebpeddhhicnab": {
+            "blacklist": true
+         },
+         "echjhfifjidfhoappglfmoffcpmpkigb": {
+            "blacklist": true
+         },
+         "echngajnlpjeacbanjejlhcajjfoedcc": {
+            "blacklist": true
+         },
+         "ecinfbhalenfhdhnljmkglajfjjfehoj": {
+            "blacklist": true
+         },
+         "edmnikahahfkfilbbjbdoiabnghbkmjc": {
+            "blacklist": true
+         },
+         "eemcgdkfndhakfknompkggombfjjjeno": {
+            "active_permissions": {
+               "api": [ "bookmarks", "bookmarkManagerPrivate", "metricsPrivate", "systemPrivate", "tabs" ],
+               "explicit_host": [ "chrome://favicon/*", "chrome://resources/*" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13021060730390625",
+            "location": 5,
+            "manifest": {
+               "chrome_url_overrides": {
+                  "bookmarks": "main.html"
+               },
+               "content_security_policy": "object-src 'none'; script-src chrome://resources 'self'",
+               "description": "Bookmark Manager",
+               "incognito": "split",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQcByy+eN9jzazWF/DPn7NW47sW7lgmpk6eKc0BQM18q8hvEM3zNm2n7HkJv/R6fU+X5mtqkDuKvq5skF6qqUF4oEyaleWDFhd1xFwV7JV+/DU7bZ00w2+6gzqsabkerFpoP33ZRIw7OviJenP0c0uWqDWF8EGSyMhB3txqhOtiQIDAQAB",
+               "manifest_version": 2,
+               "name": "Bookmark Manager",
+               "permissions": [ "bookmarks", "bookmarkManagerPrivate", "metricsPrivate", "systemPrivate", "tabs", "chrome://favicon/", "chrome://resources/" ],
+               "version": "0.1"
+            },
+            "path": "D:\\Qiang\\\u7A7F\u8D8A\\GoogleChrome_28.0.1500.95_\u4FBF\u643A\u7248\\GoogleChromePortable\\App\\Google Chrome\\resources\\bookmark_manager",
+            "was_installed_by_default": false
+         },
+         "efbeabpbbkahnnjalakldjfhljboclkf": {
+            "blacklist": true
+         },
+         "efcnjdcimjmggfdkahncpoikhehcfgnh": {
+            "blacklist": true
+         },
+         "efhjelcghjkfigiagdfbfilndaffpmdj": {
+            "blacklist": true
+         },
+         "efnaljpgehfilpmkhobibbjceeeondmn": {
+            "blacklist": true
+         },
+         "efonemhbokfedckpfpohpmcamfihnnlm": {
+            "blacklist": true
+         },
+         "egljdhfnbjahogjahnigfnbpidlmdagi": {
+            "blacklist": true
+         },
+         "ehgoiaffgjoinpkllmmnikghgpghnabc": {
+            "blacklist": true
+         },
+         "ehmjnpjodmgeocfphkjjnheiheehcoid": {
+            "blacklist": true
+         },
+         "ehomcoocpagnlcakcbecdaknmacmedld": {
+            "blacklist": true
+         },
+         "eiflkkehgogioennialfbilppmegcpoa": {
+            "blacklist": true
+         },
+         "eihjeehdobnpkonebmpanonopghepfle": {
+            "blacklist": true
+         },
+         "eijbdinddjecmebnlienfoijpjjobkjh": {
+            "blacklist": true
+         },
+         "einmhcleeonenkkldjlmhhcmgolhblhh": {
+            "blacklist": true
+         },
+         "ejakhnjbomgngodiidgbkapjgbdckhnh": {
+            "blacklist": true
+         },
+         "ejijgghlncnaphklndknkbkclebfboca": {
+            "blacklist": true
+         },
+         "ejlekamipdcfcfpgfepjmklllbpeecaj": {
+            "blacklist": true
+         },
+         "ekikoahmboikmmclhnijlmldpmleahnh": {
+            "blacklist": true
+         },
+         "elcaigjcaijbfpjngaekbblphmfjdhfo": {
+            "blacklist": true
+         },
+         "emcdpbapjmnjgoannclkongdfboaabho": {
+            "blacklist": true
+         },
+         "ennkphjdgehloodpbhlhldgbnhmacadg": {
+            "active_permissions": {
+               "api": [ "app.currentWindowInternal", "app.runtime", "app.window" ],
+               "explicit_host": [ "chrome://settings-frame/*" ]
+            },
+            "creation_flags": 1,
+            "events": [ "app.runtime.onLaunched" ],
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13021060730406625",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "background": {
+                     "scripts": [ "settings_app.js" ]
+                  }
+               },
+               "description": "Settings",
+               "display_in_launcher": false,
+               "icons": {
+                  "128": "settings_app_icon_128.png",
+                  "16": "settings_app_icon_16.png",
+                  "32": "settings_app_icon_32.png",
+                  "48": "settings_app_icon_48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDoVDPGX6fvKPVVgc+gnkYlGqHuuapgFDyKhsy4z7UzRLO/95zXPv8h8e5EacqbAQJLUbP6DERH5jowyNEYVxq9GJyntJMwP1ejvoz/52hnY3CCGGCmttmKzzpp5zwLuq3iZf8bslwywfflNUYtaCFSDa0TtrBZz0aOPrAAd/AhNwIDAQAB",
+               "manifest_version": 2,
+               "name": "Settings",
+               "permissions": [ "chrome://settings-frame/" ],
+               "version": "0.2"
+            },
+            "path": "D:\\Qiang\\\u7A7F\u8D8A\\GoogleChrome_28.0.1500.95_\u4FBF\u643A\u7248\\GoogleChromePortable\\App\\Google Chrome\\resources\\settings_app",
+            "running": false,
+            "was_installed_by_default": false
+         },
+         "eofejpelggimkodeojpeojnbijgiglgh": {
+            "blacklist": true
+         },
+         "eopmhecjnginkckggjmhombbopmkjpam": {
+            "blacklist": true
+         },
+         "epbmnbdplhcomkedpjfceakddnbgfjmf": {
+            "blacklist": true
+         },
+         "fafoohpbicgbcejffcplajonhhooddle": {
+            "blacklist": true
+         },
+         "fakdahljemjliginkgdehfoocmjgloam": {
+            "blacklist": true
+         },
+         "fbhiehmngojjcmljddjmgpmcockbccmo": {
+            "blacklist": true
+         },
+         "fbjjhbijaiopkcdolheliknnjlkaekeb": {
+            "blacklist": true
+         },
+         "fbmgoajoadbjhoachcdiplofcblaihdc": {
+            "blacklist": true
+         },
+         "fbmimoidopbghbcmdmpkjaffffmcbmbg": {
+            "blacklist": true
+         },
+         "fcfepemfihgibdacjlnlecebknaaepmj": {
+            "blacklist": true
+         },
+         "fcijaeofmfihkldhkofkjoibdoeoflha": {
+            "blacklist": true
+         },
+         "fclheclkknbgfndeahkfdomollhmfkcn": {
+            "blacklist": true
+         },
+         "febmhchodibcbchcofonaamfglbjhggg": {
+            "blacklist": true
+         },
+         "fekjidlkjnecepnlmdmjohmgpkdlbegi": {
+            "blacklist": true
+         },
+         "ffgfbfakpcnngelphjnppokmoicdollk": {
+            "blacklist": true
+         },
+         "fhlkffpjoajppmhcakbkjndbjfljccpi": {
+            "blacklist": true
+         },
+         "fhpclkemjlhmbfbjakbmdjihocinkmim": {
+            "blacklist": true
+         },
+         "fiapkdjniadkodmdibdnchoifkpfoiid": {
+            "blacklist": true
+         },
+         "fibgploapkhokkbncddlkcmbmiengcfp": {
+            "blacklist": true
+         },
+         "fihepkmlkmciffbhijldnpmifhbkiinp": {
+            "blacklist": true
+         },
+         "fiiblakkkkgeljngobmpeljjapemenhi": {
+            "blacklist": true
+         },
+         "fjhfnfakmfcejgmfkmnapemgblmehppf": {
+            "blacklist": true
+         },
+         "fjjeecfjmgfnleghoellhldedkaocjfc": {
+            "blacklist": true
+         },
+         "fjpofaghniailakahnhkjjfbfonpfglo": {
+            "blacklist": true
+         },
+         "flalbhkmnijcnpialgakicllnabckmhi": {
+            "blacklist": true
+         },
+         "fleljamdchegbjeiipbnmiebnhgheeld": {
+            "blacklist": true
+         },
+         "flmmgcfcpbfddenepkfmgfpbaceolcoe": {
+            "blacklist": true
+         },
+         "fmcccidacjgnfiafddkngmeolkoiihil": {
+            "blacklist": true
+         },
+         "fmonlemffgbabjifjfaoamdflijecdbk": {
+            "blacklist": true
+         },
+         "fngolbdmkneakeaoiieafkilnogbocda": {
+            "blacklist": true
+         },
+         "fnhcgnmfccojojojacgeiaaeacefdohb": {
+            "blacklist": true
+         },
+         "fnihpenllbnplcglabekelhhblcdndbb": {
+            "blacklist": true
+         },
+         "fnkaadkanmfgpfbmdcllhjdgmdbgljpi": {
+            "blacklist": true
+         },
+         "fnnmbghphdnmmjdapccfobgjemjadeli": {
+            "blacklist": true
+         },
+         "fnoadkjdjfgafomgmablhmffooijcfbn": {
+            "blacklist": true
+         },
+         "foenbafkkmajnmfnlcmejonkfaipdmme": {
+            "blacklist": true
+         },
+         "folhciaicehdnoalhbkbgkakfcockopc": {
+            "blacklist": true
+         },
+         "fomljmklmcefndkgpakgifbiiidgbjej": {
+            "blacklist": true
+         },
+         "fommcgokigkhmnhlhlkckfjhefnmfohd": {
+            "blacklist": true
+         },
+         "fopgndklnkecillfbdmfknhmadmenikm": {
+            "blacklist": true
+         },
+         "fpbippbofbmgmbojjmgfcifpmdaelcmd": {
+            "blacklist": true
+         },
+         "fpbkafpphnhlpakobppekmkebmbhkoco": {
+            "blacklist": true
+         },
+         "fpjdackpllilinpkgmhkpidkanmccblc": {
+            "blacklist": true
+         },
+         "fpmajanjndhgpifbcbnklbiehgnpkgmf": {
+            "blacklist": true
+         },
+         "fpoajjnnpmledpmohlgpgbmlhbgkgahg": {
+            "blacklist": true
+         },
+         "fpokembamndopkflopmplkklbdngnknd": {
+            "blacklist": true
+         },
+         "gagalgomhifgcmeciklindhpaihmecgi": {
+            "blacklist": true
+         },
+         "gaicmfjflflabagobdiodejfpjikheeo": {
+            "blacklist": true
+         },
+         "gandihaiobadcggbfkhpbkocmiemjlnf": {
+            "blacklist": true
+         },
+         "gbenikfjhilhpgagllmfgggdjaflbmbi": {
+            "blacklist": true
+         },
+         "gchbiabnbdikkgfhnkclecjncojnkmhb": {
+            "blacklist": true
+         },
+         "gdggdkkjecogagaffaemnbfmllcoihjp": {
+            "blacklist": true
+         },
+         "gdlgbpbmiiagaikjbednkikinokbkbcb": {
+            "blacklist": true
+         },
+         "geggofhlfbcmanadhknllmlajiafopoh": {
+            "blacklist": true
+         },
+         "gekkhpjigmckhgmgngadbeknekgpgolb": {
+            "blacklist": true
+         },
+         "gfjfhihpkmehdmblhfaikkipeplpdcla": {
+            "blacklist": true
+         },
+         "gfmmoiakbmdohkgeoekiokjgljcminig": {
+            "blacklist": true
+         },
+         "ggkpicnfnljflddbdoeeaajjgepapcbf": {
+            "blacklist": true
+         },
+         "ghgphbmpcfgkfneodjpbdanmdoemklio": {
+            "blacklist": true
+         },
+         "ghmaokcegalalefnhlfcnjhnpdbanjkj": {
+            "blacklist": true
+         },
+         "gifglngcdbggmlgkcombebegdaoknkho": {
+            "blacklist": true
+         },
+         "gjkbghdignnlcknknflbigpammebiolo": {
+            "blacklist": true
+         },
+         "gjmhdmobkhfhkpfmfegnkkimlamjdldi": {
+            "blacklist": true
+         },
+         "gkcfodgjdcijjlliehfhgohlkemcbobl": {
+            "blacklist": true
+         },
+         "gkhbgnodbilglgholifcjdblbgdaieah": {
+            "blacklist": true
+         },
+         "gkjeccpmibljcfpfapfljciimedljpnm": {
+            "blacklist": true
+         },
+         "gkjmgdpdndoaiholejnmdbbpdaafahmm": {
+            "blacklist": true
+         },
+         "gklphmokmaaepjgandocpneomjlidjag": {
+            "blacklist": true
+         },
+         "glhhlafadlhkgbklgbjnmblfhnkfknbm": {
+            "blacklist": true
+         },
+         "gmghjgfdialcnhadahmjefeflgnhcjeb": {
+            "blacklist": true
+         },
+         "gnapdhmknipknfmhhnhdmhakdfhgeing": {
+            "blacklist": true
+         },
+         "gncfgndgeoddelbfhlndhljnecoednaa": {
+            "blacklist": true
+         },
+         "gngfmjidncdccdlfjcjbnngeaaclfgpl": {
+            "blacklist": true
+         },
+         "gngmkbiihflpghldjnbpemaicedhdddk": {
+            "blacklist": true
+         },
+         "gobjcjhhebpjbmjdgmejhebbleadnceo": {
+            "blacklist": true
+         },
+         "goedioiidkokkbobdnopnlnaaalniegm": {
+            "blacklist": true
+         },
+         "gomkbnfeifchddfokcicibjnlgbolhol": {
+            "blacklist": true
+         },
+         "gompblemgafijijmlgbaepcijfgfgljf": {
+            "blacklist": true
+         },
+         "gpdcodmabpgmncbkhpipakhehepmpopk": {
+            "blacklist": true
+         },
+         "gpgehbjbkfhngdlfpfeokjgbkmmokjhe": {
+            "blacklist": true
+         },
+         "gplgjmecjpbfcdikpbicknafcnfcidek": {
+            "blacklist": true
+         },
+         "hbaajkahagmlkdekmbdabikbopdgpaac": {
+            "blacklist": true
+         },
+         "hbdhabpmbbanaopgkbaondabkkepjfaf": {
+            "blacklist": true
+         },
+         "hbmlheccjkodhfejcmblndjodllmnlnl": {
+            "blacklist": true
+         },
+         "hcapokajkngndbglnfglpfdpoeidmpha": {
+            "blacklist": true
+         },
+         "hcpndbchnlgojmnijaldkicigmihmdca": {
+            "blacklist": true
+         },
+         "hdijkiondgomjpehfhopomicjbiodmcm": {
+            "blacklist": true
+         },
+         "hdnbmmfjbblajkjkcaeofolgfnljpnim": {
+            "blacklist": true
+         },
+         "hecijapnccjhonbmacmkmffooodfokoo": {
+            "blacklist": true
+         },
+         "hefmoncdemhjembgbnkgglhlookbipdc": {
+            "blacklist": true
+         },
+         "hfcgbiofoebieldldghfocjfnnajmpej": {
+            "blacklist": true
+         },
+         "hfjpjodbolkmheaehcnmfhjakjileoof": {
+            "blacklist": true
+         },
+         "hfpfbhnmbbigpmoodjemilggabklpopj": {
+            "blacklist": true
+         },
+         "hgbaomphocgmdpmiohjclchaaljpaelp": {
+            "blacklist": true
+         },
+         "hgboiaecclcbjphldpbgfgggcbihmnai": {
+            "blacklist": true
+         },
+         "hgjgaeknhmidehalnmokomhpfhbfmpcm": {
+            "blacklist": true
+         },
+         "hhbihfbjoifhhebcnchglobmkmapgjkm": {
+            "blacklist": true
+         },
+         "hhfffemhgkginfafaoapljdllodppana": {
+            "blacklist": true
+         },
+         "hhfiljkpjapjjphcocclhhaldpfkkjbi": {
+            "blacklist": true
+         },
+         "hhjmkijkgojfifipdgmiemghfikbohcm": {
+            "blacklist": true
+         },
+         "hhlgbfcfbkhlmajakkcjippgpcmejkko": {
+            "blacklist": true
+         },
+         "hhommgjjeekpmpcbdmfnhpchijdkgaei": {
+            "blacklist": true
+         },
+         "hilncbjbdpnfepdidfchmdclhpnlegpj": {
+            "blacklist": true
+         },
+         "himgjpdejpikenoibmolgmfblolpahno": {
+            "blacklist": true
+         },
+         "hjkhligcnpfjhjlapmejaiaiigibofif": {
+            "blacklist": true
+         },
+         "hjnigaibahdeadcdnpnommdehajodlhc": {
+            "blacklist": true
+         },
+         "hkbgccpdcpbdckohbknjlamamelcnlki": {
+            "blacklist": true
+         },
+         "hkjcejgfmaanpncnpoidgbhoikcaeepd": {
+            "blacklist": true
+         },
+         "hkjfdgjkgpbbdmadbglcgljjjddkcdha": {
+            "blacklist": true
+         },
+         "hmmoglffhpmacaacfbbmbbkcbdkjphnc": {
+            "blacklist": true
+         },
+         "hnbcdmfeoldeppcbnnjmjkdofohaljbn": {
+            "blacklist": true
+         },
+         "hncomkjbbkchfjelocejkbbflmjhlhfp": {
+            "blacklist": true
+         },
+         "hnipgljcblpgnnojcfldehpeknhakbgj": {
+            "blacklist": true
+         },
+         "hnkcpoijaeegompjgbjjhkdmljldaccg": {
+            "blacklist": true
+         },
+         "hnnebfeppcbhhbhiifeaajgcjnkljlld": {
+            "blacklist": true
+         },
+         "hnonhhpgjnjcjfbkjdpfbkfpaodcmncb": {
+            "blacklist": true
+         },
+         "hnpgphegniamplngojaffllhjahkgbfl": {
+            "blacklist": true
+         },
+         "hojhlinneifhjfcjleldnofeehamienb": {
+            "active_permissions": {
+               "scriptable_host": [ "http://222.141.53.5/iplay.html*", "http://61.147.76.6/iplay.html*", "http://dynamic.cloud.vip.xunlei.com/*" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "granted_permissions": {
+               "scriptable_host": [ "http://222.141.53.5/iplay.html*", "http://61.147.76.6/iplay.html*", "http://dynamic.cloud.vip.xunlei.com/*" ]
+            },
+            "install_time": "13032601918321412",
+            "location": 1,
+            "manifest": {
+               "content_scripts": [ {
+                  "js": [ "script.js" ],
+                  "matches": [ "http://222.141.53.5/iplay.html*", "http://61.147.76.6/iplay.html*", "http://dynamic.cloud.vip.xunlei.com/*" ],
+                  "run_at": "document_end"
+               } ],
+               "converted_from_user_script": true,
+               "description": "export thunder lixian url to aria2/wget",
+               "key": "3GZ+cInShQVzYXq7rH1eGs9MJzvDa4Dncgo4vQgLj/0=",
+               "name": "ThunderLixianExporter",
+               "version": "0.51"
+            },
+            "path": "hojhlinneifhjfcjleldnofeehamienb\\0.51_0",
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "hpcdoodjfcmpcpkeendjnjkeinimhkih": {
+            "blacklist": true
+         },
+         "hphibigbodkkohoglgfkddblldpfohjl": {
+            "blacklist": true
+         },
+         "hpibmhghjndideebpackbdlpncgkcppp": {
+            "blacklist": true
+         },
+         "iablioliielnhdianpbiijaoncbmfend": {
+            "blacklist": true
+         },
+         "ibnhidklhjoopebonemhliklfbhndjjd": {
+            "blacklist": true
+         },
+         "iccblehkchfmjgfafjcpjlkjcponhdhl": {
+            "blacklist": true
+         },
+         "icihfeaofpcfehanhbnjigdlpfahjlee": {
+            "blacklist": true
+         },
+         "idbdlnkdnaodonmgnimcfelpngbmcpjk": {
+            "blacklist": true
+         },
+         "idleenniidjlnmnjkjmmnocnkmjibadd": {
+            "active_permissions": {
+               "api": [ "activeTab", "tabs", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "scriptable_host": [ "\u003Call_urls\u003E" ]
+            },
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "activeTab", "tabs", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "scriptable_host": [ "\u003Call_urls\u003E" ]
+            },
+            "install_time": "13041855023880774",
+            "lastpingday": "13061980837307901",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "scripts": [ "background.js" ]
+               },
+               "content_scripts": [ {
+                  "css": [ "content_style.css" ],
+                  "js": [ "jquery-2.0.2.min.js", "content_script.js" ],
+                  "matches": [ "\u003Call_urls\u003E" ]
+               } ],
+               "current_locale": "zh_CN",
+               "default_locale": "zh_CN",
+               "description": "\u4E0B\u8F7D\u5728\u7EBF\u97F3\u4E50\u63D2\u4EF6\uFF0C\u652F\u6301\u8C46\u74E3\uFF0C\u867E\u7C73\uFF0CJing.fm\uFF0CSongTaste\uFF0C\u843D\u7F51\uFF0C\u4EBA\u4EBA\u7535\u53F0\uFF0CQQ\u97F3\u4E50\uFF0C\u7F51\u6613\u4E91\u97F3\u4E50\uFF0C\u65B0\u6D6A\u4E50\u5E93\uFF0C\u641C\u72D7\u97F3\u4E50\uFF0CQQ\u97F3\u4E50\u7535\u53F0\uFF0C\u9177\u6211\uFF0CSoundCloud\uFF0Cbandcamp.com\u7B49",
+               "icons": {
+                  "128": "images/music128.png",
+                  "16": "images/music16.png",
+                  "48": "images/music48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNU0r6EBBcGP/kZCFQcWAESKsjcvJRPWRIU8YxTZRx01c/7OPPsz2wp5h0Bm4FJK8b7bvwBmWOGC+87feRxvs7m/5aRefLJJeOOMwsb8PBjn1mhIMH/AxHeten0QHq2LxbzJ1Z1ZXauaVLdV9bi4YQTREo9ikmMLzA+wXSd7izgwIDAQAB",
+               "manifest_version": 2,
+               "name": "\u58F0\u6D77\u76D7",
+               "permissions": [ "webRequest", "activeTab", "tabs", "webRequestBlocking", "\u003Call_urls\u003E" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "1.7.5",
+               "web_accessible_resources": [ "images/music16.png", "images/music24.png", "images/music32.png", "images/music48.png", "images/arrowl32.png", "images/arrowr32.png", "images/m4a32.png", "images/aac32.png", "images/mp432.png" ]
+            },
+            "path": "idleenniidjlnmnjkjmmnocnkmjibadd\\1.7.5_0",
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "iedogbkombgmapifenoojnmpcnjighfm": {
+            "blacklist": true
+         },
+         "iemfpgbdjfoihicbocpbjppipdbfimeh": {
+            "blacklist": true
+         },
+         "ifbkndkaolfbjjhnnhfmkbkoclpdkpli": {
+            "blacklist": true
+         },
+         "ifeijfpkjckedpclgncedmgdiaoeahmk": {
+            "blacklist": true
+         },
+         "igaajdmlejbjcbmpmnigopikfdaccdcm": {
+            "blacklist": true
+         },
+         "igbaoknfddliiaoimhehfbkfekpmmfll": {
+            "blacklist": true
+         },
+         "igghanohiioehififjoalfkdoicafjof": {
+            "blacklist": true
+         },
+         "iggjepemmdkieakihpomccndhdfcljdp": {
+            "blacklist": true
+         },
+         "igjhgaoajaccjllfkfffboldnmncmhoh": {
+            "blacklist": true
+         },
+         "igkdgkdiiolilocklmiolkpoohacojop": {
+            "blacklist": true
+         },
+         "ihnembcpodnfgkafmiojebccomjekopm": {
+            "blacklist": true
+         },
+         "iiiinekimabooeihccihfopoadcaaphn": {
+            "blacklist": true
+         },
+         "ijecjbcgpblkacpijljpaienknanaloa": {
+            "blacklist": true
+         },
+         "ijenlpgidnapbndonoinbkhekgjonojg": {
+            "blacklist": true
+         },
+         "ijjmbbddenkbenbcfldgghhjgjmcnioo": {
+            "blacklist": true
+         },
+         "ilhjicgcglhjigdehkcehjdokmkahbjl": {
+            "blacklist": true
+         },
+         "iljfgjkppapinhcgonhjnipfppfmfedh": {
+            "blacklist": true
+         },
+         "ilmknaabackgdbnkgbihgpgiopnlkjek": {
+            "blacklist": true
+         },
+         "imfbomjbodpfgfhfahlgkkcllmhbelhk": {
+            "blacklist": true
+         },
+         "imkffpjpdngdkpgadcmnlkhhmhdocijn": {
+            "blacklist": true
+         },
+         "inbhlfpapeikbbgpfionabkigakepbbm": {
+            "blacklist": true
+         },
+         "indfhnliadamglhalanplbajgenpjdml": {
+            "blacklist": true
+         },
+         "iobnpmeeecphddicmhhmdjbnlbdhjlne": {
+            "blacklist": true
+         },
+         "iomejadoamfilglofmeaffghddcgapmf": {
+            "blacklist": true
+         },
+         "jabpdgllijbnknhkgjideeajfofafckp": {
+            "blacklist": true
+         },
+         "jaejgaoiipdjjlbnapngknalafalbkej": {
+            "blacklist": true
+         },
+         "jafnimahlamccccjbkhjjpeiipiedpik": {
+            "blacklist": true
+         },
+         "janhdpmhnighonkkbkdpnljcoenpfkbh": {
+            "blacklist": true
+         },
+         "jaoiiahdoamhobamdkmcmielddmnelko": {
+            "blacklist": true
+         },
+         "jbfebbkjjmkcoldeaeelhpconkmgjhbg": {
+            "blacklist": true
+         },
+         "jbmbiepnidbnhbbfdbgioomdkgnbcacj": {
+            "blacklist": true
+         },
+         "jbnafcjbcfgejacaanogofkkehcomamp": {
+            "blacklist": true
+         },
+         "jcmipejepoimfflnoapdmkdephgjinck": {
+            "blacklist": true
+         },
+         "jddbdddmbfencninofcgnodekclofpaj": {
+            "blacklist": true
+         },
+         "jdiakcmbpmcnniggjcmcjknnklpdlogc": {
+            "blacklist": true
+         },
+         "jeaohhlajejodfjadcponpnjgkiikocn": {
+            "ack_external": true,
+            "active_permissions": {
+               "api": [ "contextMenus", "cookies", "management", "plugin", "storage", "tabs", "webNavigation", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13031993218448405",
+            "location": 3,
+            "manifest": {
+               "background": {
+                  "page": "background.html"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "js": [ "contentscript.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_start"
+               } ],
+               "current_locale": "zh_CN",
+               "default_locale": "en",
+               "description": "Download files with Internet Download Manager",
+               "homepage_url": "http://www.internetdownloadmanager.com/",
+               "icons": {
+                  "128": "images/logoBig.png",
+                  "16": "images/dwnlLink.png",
+                  "48": "images/logoSmall.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDB6bzUIHoqpr76VgtsXnzCtKICpjQrN1bwQrsXotLfDae6rM0ilGZwH66aeb/SsdQssMwwpv/8GAsU28hWVRrTWj9dtMnY/8NfUfz5j8xCfQbrnlirxhzIzWizDJu1L1BxOtxkIewzKs7AUp52JEgx6C2mdIBIWaHLH4uzY03XIwIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "18.0",
+               "name": "IDM Integration Module",
+               "offline_enabled": false,
+               "permissions": [ "\u003Call_urls\u003E", "tabs", "cookies", "contextMenus", "webNavigation", "webRequest", "webRequestBlocking", "management", "storage" ],
+               "plugins": [ {
+                  "path": "IDMGCExt.dll",
+                  "public": true
+               } ],
+               "requirements": {
+                  "plugins": {
+                     "npapi": false
+                  }
+               },
+               "version": "6.18.7",
+               "web_accessible_resources": [ "captured.html" ]
+            },
+            "path": "jeaohhlajejodfjadcponpnjgkiikocn\\6.18.7_0",
+            "state": 2,
+            "was_installed_by_default": false
+         },
+         "jeehjhnmgohgpfpjneglogiholalkeip": {
+            "blacklist": true
+         },
+         "jfalnphfjdoalcdhlnhdpekbmmopkgkj": {
+            "blacklist": true
+         },
+         "jfhmafmjfdblceidmfdmoihamolaaeco": {
+            "blacklist": true
+         },
+         "jfjagidcpadkoaonbogmbgfimmnefeie": {
+            "blacklist": true
+         },
+         "jgdkappiifgomhgikcjbanhnmlekpeje": {
+            "blacklist": true
+         },
+         "jgmpapdckakiohhebmeoemejibommimi": {
+            "blacklist": true
+         },
+         "jgoljhcbgajhbhnchplgjdkknendhjnn": {
+            "blacklist": true
+         },
+         "jhhabiomopkibeecgngiggmopkeofacl": {
+            "blacklist": true
+         },
+         "jihmekmccilkocefjpejdebpapohlhjb": {
+            "blacklist": true
+         },
+         "jiiccolbjkhpgockodneljpejdeaaodf": {
+            "blacklist": true
+         },
+         "jindbcpkhnnnjgcjgmkjedbibibiojjf": {
+            "blacklist": true
+         },
+         "jiofcofpcbijcnlpekdkpmgjdppajbjb": {
+            "blacklist": true
+         },
+         "jjahldbngdicbnejidklgkienpkdcpba": {
+            "blacklist": true
+         },
+         "jjhackoobdibnnndjopfjldbjmohkpdk": {
+            "blacklist": true
+         },
+         "jjnkfllhcgkgnfbekpnmoikpfihpjfli": {
+            "blacklist": true
+         },
+         "jkihmglffmfjedfbpbpdbbimcodjbmdh": {
+            "blacklist": true
+         },
+         "jkkfmenldnihjkgnolhlakhaepomhoob": {
+            "blacklist": true
+         },
+         "jkmhalpofmlfeglboejbchpoijnkmcgh": {
+            "blacklist": true
+         },
+         "jljfnkmkkdkppfndippkedacgfkafped": {
+            "blacklist": true
+         },
+         "jmbkhogpjgjpfjhpdikloblkbkljkgao": {
+            "blacklist": true
+         },
+         "jmeanodbelbflfmnkfdjgpikmldgjjko": {
+            "blacklist": true
+         },
+         "jmifipgdcllamghkhdplfjffkciekbgo": {
+            "blacklist": true
+         },
+         "jmolcgpienlcieaajfkkdamlngancncm": {
+            "ack_external": true,
+            "active_permissions": {
+               "api": [ "contextMenus", "cookies", "management", "plugin", "storage", "tabs", "webNavigation", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13021061389978750",
+            "location": 3,
+            "manifest": {
+               "background": {
+                  "page": "background.html"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "js": [ "contentscript.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_start"
+               } ],
+               "current_locale": "zh_CN",
+               "default_locale": "en",
+               "description": "Download files with Internet Download Manager",
+               "homepage_url": "http://www.internetdownloadmanager.com/",
+               "icons": {
+                  "16": "images/dwnlLink.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrgnnjP11L/r2qkEjluwuW0B4m+dL5EC993I+l0gR+sypa9zLJfh8Tj5ox5IIaYO0+PjJ8PaJ9If/FWQmQdq82Itq9+1Z7pFx9V7iGRv5w/HZL9YexPB06edw5JqFe6GAEHC7ljG8T+zzDDg23tkoH9vHNYTqyR7GfW+D4gv2x7QIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "18.0",
+               "name": "IDM Integration",
+               "offline_enabled": false,
+               "permissions": [ "\u003Call_urls\u003E", "tabs", "cookies", "contextMenus", "webNavigation", "webRequest", "webRequestBlocking", "management", "storage" ],
+               "plugins": [ {
+                  "path": "IDMGCExt.dll",
+                  "public": true
+               } ],
+               "version": "6.12.21"
+            },
+            "path": "jmolcgpienlcieaajfkkdamlngancncm\\6.12.21_0",
+            "state": 2,
+            "was_installed_by_default": false
+         },
+         "jnehbnhjkefckoljkcmjfgkkeejhipgi": {
+            "blacklist": true
+         },
+         "jokbafidjfknjbchmcakabjgdiiacgek": {
+            "blacklist": true
+         },
+         "jolgdmpdhloiienhblmiimamomhdphlk": {
+            "blacklist": true
+         },
+         "jpehgolpfgnknboibogccapmdcadjkbd": {
+            "blacklist": true
+         },
+         "jpeijjbllejgmokmahkeommcodahoobm": {
+            "blacklist": true
+         },
+         "jpgidahfcgiajlcbleeiaibpmmblcmnb": {
+            "blacklist": true
+         },
+         "jpiedgcdjigcoeagojmlokclbljokpon": {
+            "blacklist": true
+         },
+         "jpkdlckejfjidmplieobnhijmoiecbhl": {
+            "blacklist": true
+         },
+         "kbipembkfhbdmkkkfbigmohilmknjnof": {
+            "blacklist": true
+         },
+         "kbmkecfipofebpaikgifajmahdmadlnb": {
+            "blacklist": true
+         },
+         "kcanfkmhccbaheheaackijegkclkaeic": {
+            "blacklist": true
+         },
+         "kcfnnanmpghdnoompcfclakpacapnfbn": {
+            "blacklist": true
+         },
+         "kcgplbmkmfcpngilmhjmebdgkkpbdemp": {
+            "blacklist": true
+         },
+         "kcmnkpehkjhodoodchlmgnicaifckhdj": {
+            "blacklist": true
+         },
+         "kdchmeaiapjkejkcbeclgjklemecieeg": {
+            "blacklist": true
+         },
+         "kdcnnmifdmlmjffdgeieikcokcogpbej": {
+            "blacklist": true
+         },
+         "kdfahjokahcbmecgaandpobmgiiknagf": {
+            "blacklist": true
+         },
+         "kdicckonacionpoompfoopggkgimjpcb": {
+            "blacklist": true
+         },
+         "kdjhalklkkcmodeicjiaekcgifkcepaf": {
+            "blacklist": true
+         },
+         "kdpcgcpfnkolljkhgdbbgimplfkhakec": {
+            "blacklist": true
+         },
+         "keknhkokjnjhgpcofobpcbelddppeolp": {
+            "blacklist": true
+         },
+         "kelcbonmemlciepjdmfcifnhloeammhj": {
+            "blacklist": true
+         },
+         "kelljdoinjlkmkncffgadbebgpmlcang": {
+            "blacklist": true
+         },
+         "keoimpnicgbcjamfdgpcecihicnbmhej": {
+            "blacklist": true
+         },
+         "kffhenjbibjnbnjhlkcdlmpeccpaohio": {
+            "blacklist": true
+         },
+         "kfodnkhdfdgeaegehjjnkjkieloddelg": {
+            "blacklist": true
+         },
+         "kgbkdabomfdpfoibliicpmibceaoohgh": {
+            "blacklist": true
+         },
+         "kgbmmcjgkkecjcafigegjphkmkdpnggo": {
+            "blacklist": true
+         },
+         "kgdhnhadbnpeibkghaebmhmngobdafag": {
+            "blacklist": true
+         },
+         "kgdkcodealpfjolmiagcogfbgmaamegh": {
+            "blacklist": true
+         },
+         "kgdmldjagfciieddcnlhampgkajkpanc": {
+            "blacklist": true
+         },
+         "khgjomcpjblpoaipanicbfjfgcfbpegp": {
+            "blacklist": true
+         },
+         "kibgmcdcfmcglajcfbecilngejnfppjp": {
+            "blacklist": true
+         },
+         "kiipngoehgkgkackngaidmhmnchfbmio": {
+            "blacklist": true
+         },
+         "kincjchfokkeneeofpeefomkikfkiedl": {
+            "blacklist": true
+         },
+         "kinhljbhjmcmoddhdoodekeklmjapjff": {
+            "blacklist": true
+         },
+         "kkhejjmlcfbcleolhadhekjbcanoopna": {
+            "blacklist": true
+         },
+         "kkhomejdleoonmbdhcigkhkjcghngncf": {
+            "blacklist": true
+         },
+         "kkkeikdkpjenmoiicggnnodbkebafgpc": {
+            "blacklist": true
+         },
+         "kleaapgdkahaekcocmkbgfainbhihccj": {
+            "blacklist": true
+         },
+         "kljhmdlkclaglodecegamnpioaflmage": {
+            "blacklist": true
+         },
+         "kmlebjoghkhpapfhbdikannggmmffnco": {
+            "blacklist": true
+         },
+         "kojkdbedffnppdoalcfkkeelbhbklhgp": {
+            "blacklist": true
+         },
+         "kolbbghckjilleabphhgeggcgpfidofi": {
+            "blacklist": true
+         },
+         "kpbfifeiomkhocgkkffocfinoedcjebg": {
+            "blacklist": true
+         },
+         "laicaenbonaajhkmfhhbpiapobdieffm": {
+            "blacklist": true
+         },
+         "lambangeielkjcnmioccboaphdfcffib": {
+            "blacklist": true
+         },
+         "lbaddolhebpnhdcdkicpcflhnfamcemn": {
+            "blacklist": true
+         },
+         "lbcmmpmjjaockhkcofljpakjcbmjmgla": {
+            "blacklist": true
+         },
+         "lbficnmfealeidppcbgdcbemgfjodbkg": {
+            "blacklist": true
+         },
+         "lcbfjcekjncehfbcimlogajbekmoeblm": {
+            "blacklist": true
+         },
+         "lcccggoiffkhgfkefgbicjdgdnfpoihn": {
+            "blacklist": true
+         },
+         "lceaiepehinnomgijphkmjccbigkljkj": {
+            "blacklist": true
+         },
+         "lcfkojlnjnedeoepfemhdgkhiabkeadc": {
+            "blacklist": true
+         },
+         "lcmpleboacinanffcdgenhhbkboclkjb": {
+            "blacklist": true
+         },
+         "ldgfapfmnplpaohbbadnecegcpfkfall": {
+            "blacklist": true
+         },
+         "ldmoahefokhfelhpbgfjpelcdbahdofk": {
+            "blacklist": true
+         },
+         "leccghfplhenabeogpibljliijgapfgb": {
+            "blacklist": true
+         },
+         "lfechjkgjjijfjoandhakaghdeimjcod": {
+            "blacklist": true
+         },
+         "lfggokjjaanlfikbbapgnfemifmddalf": {
+            "blacklist": true
+         },
+         "lgalokbapphhklmilicdefmgbjkcmldf": {
+            "blacklist": true
+         },
+         "lgcnahanhlfpceencjmlehpfklokhojk": {
+            "blacklist": true
+         },
+         "lhajoamjgchgljkdjigcgmmcehjkagan": {
+            "blacklist": true
+         },
+         "lhgbajoidigcpmgbnnonllfkndhahmie": {
+            "blacklist": true
+         },
+         "likifpgnijjfbdegfepoalpamlgnfofi": {
+            "blacklist": true
+         },
+         "liomofjeffddiiccaolcnllbhnipbkhe": {
+            "blacklist": true
+         },
+         "ljcicfibknpmlcmcecddjlbgkejehhpa": {
+            "blacklist": true
+         },
+         "ljeihpebkahejeacdalhkhmckmggppif": {
+            "blacklist": true
+         },
+         "ljlppmpjdogefnanekncklkjgpnhpcpd": {
+            "blacklist": true
+         },
+         "ljmjoloiepllcndinchenhomcdcgbgef": {
+            "blacklist": true
+         },
+         "lkdimamelhbiijkiljlnedmhnnkkmlbl": {
+            "blacklist": true
+         },
+         "lkfdchejjogilmloogbbjlnlpbhgjfab": {
+            "blacklist": true
+         },
+         "lkhcbijhgfchgdmklonlobkfbcadbokg": {
+            "blacklist": true
+         },
+         "lljnngafekbnkpdfophmcdlbfebcbcld": {
+            "blacklist": true
+         },
+         "lmhdacagnmfmomeodbgmlghejdbmldge": {
+            "blacklist": true
+         },
+         "lnahlgmhpghkhmafjppdidhcoaomipfg": {
+            "blacklist": true
+         },
+         "lnbeebaenahmkbffnimghceldeeihfak": {
+            "blacklist": true
+         },
+         "lncjcfkpannmofmpgdfoonkniofdnaba": {
+            "blacklist": true
+         },
+         "lndempehphjoeimfchjflohpmhamiamf": {
+            "blacklist": true
+         },
+         "lnjgjionmhobdfdegbciceafphgemjnc": {
+            "blacklist": true
+         },
+         "lnlaeblencbjjjeaanegaldcjfekeled": {
+            "blacklist": true
+         },
+         "lodollblmkailkkdiijmoccefdfjohgk": {
+            "blacklist": true
+         },
+         "loggadfheaoeabmkgolecncpfdfioefa": {
+            "blacklist": true
+         },
+         "lojppnndedobolgfepahepphhloediji": {
+            "blacklist": true
+         },
+         "loldehkdjdncebfnncknlkdchjclifbn": {
+            "blacklist": true
+         },
+         "lookpbabilcplifjdeifacodednpacmk": {
+            "blacklist": true
+         },
+         "lpgiafapdmlapiokjnmpbbfkomiceoml": {
+            "blacklist": true
+         },
+         "lplmcpcnhpbffpcfiaddbeaplhhbengd": {
+            "blacklist": true
+         },
+         "maakimnachffhlgdhfomaejeeaikgjap": {
+            "blacklist": true
+         },
+         "mafccdbbhekjhemajjejkaidndokeena": {
+            "blacklist": true
+         },
+         "magllcifjcllaafcdplnajmobccbcdlo": {
+            "blacklist": true
+         },
+         "mamfageekafifnickhgkibkofcclfefe": {
+            "blacklist": true
+         },
+         "mandondadnlimicalgkbkaohmeopdojj": {
+            "blacklist": true
+         },
+         "mbifidpgmfiielflaipknojhpfcljmgo": {
+            "blacklist": true
+         },
+         "mbmdaiddhfoljplpdhohimgieioblfif": {
+            "blacklist": true
+         },
+         "mcbkimglepddodbiongpohpeidioafgk": {
+            "blacklist": true
+         },
+         "mcknnlhkkdbcppajgefagceglahcafjd": {
+            "blacklist": true
+         },
+         "mdiehnlecbjlppbpaaipmlnhhjgepfcg": {
+            "blacklist": true
+         },
+         "mdngbiejioalifclonjepjjfppmbgned": {
+            "blacklist": true
+         },
+         "megkcfpbmemnpkgadkoompnoajcolpni": {
+            "blacklist": true
+         },
+         "mfehgcgbbipciphmccgaenjidiccnmng": {
+            "active_permissions": {
+               "api": [ "cloudPrintPrivate" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13021060730406625",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://www.google.com/cloudprint"
+                  },
+                  "urls": [ "https://www.google.com/cloudprint/enable_chrome_connector" ]
+               },
+               "description": "Cloud Print",
+               "display_in_launcher": false,
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqOhnwk4+HXVfGyaNsAQdU/js1Na56diW08oF1MhZiwzSnJsEaeuMN9od9q9N4ZdK3o1xXOSARrYdE+syV7Dl31nf6qz3A6K+D5NHe6sSB9yvYlIiN37jdWdrfxxE0pRYEVYZNTe3bzq3NkcYJlOdt1UPcpJB+isXpAGUKUvt7EQIDAQAB",
+               "name": "Cloud Print",
+               "permissions": [ "cloudPrintPrivate" ],
+               "version": "0.1"
+            },
+            "path": "D:\\Qiang\\\u7A7F\u8D8A\\GoogleChrome_28.0.1500.95_\u4FBF\u643A\u7248\\GoogleChromePortable\\App\\Google Chrome\\resources\\cloud_print",
+            "was_installed_by_default": false
+         },
+         "mfffdpnblflpobcnekhekiahepofaane": {
+            "blacklist": true
+         },
+         "mfgkkephjfnkggbmahehnjhdcmkioaff": {
+            "blacklist": true
+         },
+         "mfhfkclojmdocagbmecgcnlofppebebd": {
+            "blacklist": true
+         },
+         "mfncimdpmknolnnnccdmkpnpkaofonkc": {
+            "blacklist": true
+         },
+         "mfooalpniplhaaealemjpchkchmmgdko": {
+            "blacklist": true
+         },
+         "mgdgiplcofghdmpekdeeceolepakodcb": {
+            "blacklist": true
+         },
+         "mgndgikekgjfcpckkfioiadnlibdjbkf": {
+            "app_launcher_ordinal": "t",
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13021060730406625",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "http://THIS-WILL-BE-REPLACED"
+                  }
+               },
+               "description": "Chrome as an app",
+               "display_in_launcher": true,
+               "display_in_new_tab_page": false,
+               "icons": {
+                  "128": "product_logo_128.png",
+                  "16": "product_logo_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNuYLEQ1QPMcc5HfWI/9jiEf6FdJWqEtgRmIeI7qtjPLBM5oje+Ny2E2mTAhou5qdJiO2CHWdU1DQXY2F7Zu2gZaKZgHLfK4WimHxUT5Xd9/aro/R9PCzjguM1BLusiWYc9xlj1IsZpyiN1hcjU7SCnBhv1feQlv2WSB5KRiXwhQIDAQAB",
+               "name": "Chrome",
+               "version": "0.1"
+            },
+            "page_ordinal": "n",
+            "path": "D:\\Qiang\\\u7A7F\u8D8A\\GoogleChrome_28.0.1500.95_\u4FBF\u643A\u7248\\GoogleChromePortable\\App\\Google Chrome\\resources\\chrome_app",
+            "was_installed_by_default": false
+         },
+         "mhbffdldpckobeihgebaamjalehefnia": {
+            "blacklist": true
+         },
+         "mhldlgmggplfkkjgpgjjpebflplpgekg": {
+            "blacklist": true
+         },
+         "mickhiflmjglhpdpfigpkpjiipfdlphj": {
+            "blacklist": true
+         },
+         "mikpklndmiopinkkmalgoophegfnmmfh": {
+            "blacklist": true
+         },
+         "mjalegijammcloleihdmooifidcjggjp": {
+            "blacklist": true
+         },
+         "mjgobkikdipfikmaoakdcdbicpioljgg": {
+            "blacklist": true
+         },
+         "mjhlngjakabhonjagnlimeicooahajpl": {
+            "blacklist": true
+         },
+         "mjolnadmlahbpepjaemohnkhpjkbhmef": {
+            "blacklist": true
+         },
+         "mknjbohhleiicbpagpgmhoaigbblmnic": {
+            "blacklist": true
+         },
+         "mkobblpffgbncfhijabakfafmkjdmmnm": {
+            "blacklist": true
+         },
+         "mlmegahemifabfmdnndafagnncfbnahn": {
+            "blacklist": true
+         },
+         "mlmmbepkgelpbenpobinockmiehdahai": {
+            "blacklist": true
+         },
+         "mlnndjkcclbekgoebkenkdgiggaomaed": {
+            "blacklist": true
+         },
+         "mlnoedbhndgbjcbeadjfnmjloejlgojk": {
+            "blacklist": true
+         },
+         "mmjodihhmnpkldljaifiajmlnpflfhpm": {
+            "blacklist": true
+         },
+         "mndoohjdoechinpkfbkolflbonciahfo": {
+            "blacklist": true
+         },
+         "mnhcgaghminpdabllkbkecahjfkdiabk": {
+            "blacklist": true
+         },
+         "mnichagcickblneeijmfnmoiakigmmhf": {
+            "blacklist": true
+         },
+         "mnllienogacopjnkmhgnniopjpgjpopp": {
+            "blacklist": true
+         },
+         "mogepbcllienegdibkfpmombhefhcoic": {
+            "blacklist": true
+         },
+         "mokdlfbphidpiopnlfejpcmadcbomckn": {
+            "blacklist": true
+         },
+         "mpcglemopeoeapmagdbeenepkdbajape": {
+            "blacklist": true
+         },
+         "mpgehpkneknbopplhmmkfijfiniddipf": {
+            "blacklist": true
+         },
+         "mplhbhmkccidaokcelbcbcmhhedebcng": {
+            "blacklist": true
+         },
+         "mplpabdbfbloeiboikmdbnggfnjbjmlh": {
+            "blacklist": true
+         },
+         "naopgnjebjeeedbbhcadkhkmeefmloho": {
+            "blacklist": true
+         },
+         "nbfcehkihbmpebblmfkihadebllgfmgl": {
+            "blacklist": true
+         },
+         "nbieffehfdniifkgdckbndjhojohbfjj": {
+            "blacklist": true
+         },
+         "nbjnehjmelkfjggedillcpjeelfnempb": {
+            "blacklist": true
+         },
+         "nckmikohoilfkcoahbjpbgbpegcjgngm": {
+            "blacklist": true
+         },
+         "ncpdanjmicnihdlijomcggnnekloephc": {
+            "blacklist": true
+         },
+         "ndhkiimgbjnendpcfbiadlifmangejoa": {
+            "blacklist": true
+         },
+         "ndiogongcmocdgjciemhagfhpjamehpe": {
+            "blacklist": true
+         },
+         "negkalblfongjbphdcbbhddlickhlamd": {
+            "blacklist": true
+         },
+         "nepfiodmbijheamafkiglonfkjebdjmf": {
+            "blacklist": true
+         },
+         "nfecfkjnlkbphobjbcnphimihniieehc": {
+            "blacklist": true
+         },
+         "nhbfbnmmdjkjahhfdeklgphihfodfgnb": {
+            "blacklist": true
+         },
+         "nhboiakpmibkbkbeehchlfkggmhphpnk": {
+            "blacklist": true
+         },
+         "nhkmojkfnknbbmhbnacjdlodokeophkl": {
+            "blacklist": true
+         },
+         "nhooocacdhkpbmoocdclodjlddcebfoe": {
+            "blacklist": true
+         },
+         "nibohffepnilngkecenfdgnokfhmnkod": {
+            "blacklist": true
+         },
+         "nidmbljkkcbdfklgdkklgjgmhejmbojn": {
+            "blacklist": true
+         },
+         "nidodbfomffkfabciljelkbdiabkeehe": {
+            "blacklist": true
+         },
+         "nifbebeekindefklojhchehidpikbjfc": {
+            "blacklist": true
+         },
+         "nihhbeikpchdddoillfdcdinnnnllmna": {
+            "blacklist": true
+         },
+         "nlefocohkhlgmjdhgkjgdodobmffjbod": {
+            "blacklist": true
+         },
+         "nlgapikcofpablcmfgaoodlhiejiehhh": {
+            "blacklist": true
+         },
+         "nloaaepkhcnmoakooihnefhhggbmemed": {
+            "blacklist": true
+         },
+         "nmgpbidjnaebdlbdbpjggenmbaolmfoi": {
+            "blacklist": true
+         },
+         "nmmnodocfckpoddcgihiihcdinaonckb": {
+            "blacklist": true
+         },
+         "nmphbnbmgfccfhcmibikmhcgajjpelpf": {
+            "blacklist": true
+         },
+         "nnioepmjbjjlflmdgjanlcmbjahljeeo": {
+            "blacklist": true
+         },
+         "nochkknnbahbhmmknnmdhagelcnfagom": {
+            "blacklist": true
+         },
+         "noefghcilkpcabnhhilojimkkjplhcnd": {
+            "blacklist": true
+         },
+         "npadaghbcdejfngcjpbnoikajdnongca": {
+            "blacklist": true
+         },
+         "npfpmgjnfcklmaipcffpjhapedmpjggj": {
+            "blacklist": true
+         },
+         "npolaghondefgiomhkbiiompikfjneep": {
+            "blacklist": true
+         },
+         "oafccdmmjdpialdmgenjfhijoondgncj": {
+            "blacklist": true
+         },
+         "oakhllhnbcpgagdafgbninlpjdemdmjk": {
+            "blacklist": true
+         },
+         "oanjogmonneelfpnfmdlalfddkeckdej": {
+            "blacklist": true
+         },
+         "obfnipbbnnhkbafmdbbfpgfgbjmmkgpm": {
+            "blacklist": true
+         },
+         "obgljnmbldahelaakfdbjkplokjoneip": {
+            "blacklist": true
+         },
+         "obhplmafmpmelgapjjbfhcdkicnhakhf": {
+            "blacklist": true
+         },
+         "oblicopoaionpjoapgjmmoncjadpdioh": {
+            "blacklist": true
+         },
+         "ochmdkhojipfibbplgpeeggeimnagcfd": {
+            "blacklist": true
+         },
+         "ocmhjnhildbnglmlfimkjnnfgddelacb": {
+            "blacklist": true
+         },
+         "ocnlnkjmfnolmbclblfhfhcakldceiec": {
+            "blacklist": true
+         },
+         "odeckaficnaplobiiaomegfbokokehhb": {
+            "blacklist": true
+         },
+         "odefpckfdnfkeandbeccopcpncnbkonn": {
+            "blacklist": true
+         },
+         "odnamglmogfldajnhkfodmloofeokcmm": {
+            "blacklist": true
+         },
+         "oebmjchahlpmalnjpeagiibojcbfmema": {
+            "blacklist": true
+         },
+         "oegogboflfgdoajlmhilbamjblflfibj": {
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "install_time": "13046281594419703",
+            "lastpingday": "13061980837307901",
+            "location": 1,
+            "manifest": {
+               "current_locale": "zh_CN",
+               "default_locale": "en",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsiAUK/wG3TGRfFQLL78WU/NO1OCjN/tG8YcGH6ijbXWw8xfn8L334eU4/45V0fzDBNTV5zBISdFqu7EE7Ve1QqnoMooGMtRCLXhAroe7s6MWW43uPPHitxzlZ/OwGe7ejA4hj324olhEdjMb518e515TCTflyH3phfFjDSf1jZwIDAQAB",
+               "name": "Transparent",
+               "theme": {
+                  "colors": {
+                     "bookmark_text": [ 0, 0, 0 ],
+                     "frame": [ 213, 213, 213 ],
+                     "ntp_background": [ 255, 255, 255 ],
+                     "ntp_link": [ 0, 0, 0 ],
+                     "ntp_section": [ 186, 186, 186, 1 ],
+                     "ntp_section_link": [ 255, 255, 255 ],
+                     "ntp_section_text": [ 255, 255, 255 ],
+                     "ntp_text": [ 0, 0, 0 ],
+                     "tab_background_text": [ 0, 0, 0 ],
+                     "tab_text": [ 0, 0, 0 ],
+                     "toolbar": [ 186, 186, 186 ]
+                  },
+                  "images": {
+                     "theme_button_background": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUYpawBDA",
+                     "theme_frame": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUYoqwBDA",
+                     "theme_ntp_background": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUYyLsBDA",
+                     "theme_tab_background": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUYp6wBDA",
+                     "theme_toolbar": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUYo6wBDA"
+                  },
+                  "properties": {
+                     "ntp_background_alignment": "top left",
+                     "ntp_background_repeat": "repeat"
+                  },
+                  "tints": {
+                     "buttons": [ 0.6, 0.079, 0.5 ]
+                  }
+               },
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "1.0"
+            },
+            "path": "oegogboflfgdoajlmhilbamjblflfibj\\1.0_0",
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "oelhhkgiajkjfbccafjgggcpkbkjgpij": {
+            "blacklist": true
+         },
+         "oghphhcagopecifjblgdcfihjnlcbcfc": {
+            "blacklist": true
+         },
+         "ogjbodghhojomghbdfnlkppdagkfjede": {
+            "blacklist": true
+         },
+         "oidjdpbndkjhmhmgdoggibcjnippkcgo": {
+            "blacklist": true
+         },
+         "oilfokmpgejhjhecdjjpikloibggpenf": {
+            "blacklist": true
+         },
+         "oimplfccampifgkgndlamabnkcibkngc": {
+            "blacklist": true
+         },
+         "ojglppmhgfohhfeinlhklglifnbfebak": {
+            "blacklist": true
+         },
+         "ojmdhklabgbnnkkilmkcfcemdhognifc": {
+            "blacklist": true
+         },
+         "omceiakkomngangmllpgbjcoeloglald": {
+            "blacklist": true
+         },
+         "omnicnmbagoinlpamknknbcgopadcoci": {
+            "blacklist": true
+         },
+         "oncmkbmjpjlihkpbohlpmjghiiogmoie": {
+            "blacklist": true
+         },
+         "onfbaaifbbahonepmednhkjbhdgogkbl": {
+            "blacklist": true
+         },
+         "onjaecbdddgibdijafoemfiachlbcgkj": {
+            "blacklist": true
+         },
+         "onpnpccdagncipgnoofbhchlbajcjnkd": {
+            "blacklist": true
+         },
+         "oocfbmollajebjjpkahmlnclfhkjijea": {
+            "blacklist": true
+         },
+         "ookcgejbfhcmcanfkfmmmpahflnlajbl": {
+            "blacklist": true
+         },
+         "oomelpjfeldbopnleifpjibbpekflhlg": {
+            "blacklist": true
+         },
+         "opnnngnphijodjhemhdafpnnpdjggofe": {
+            "blacklist": true
+         },
+         "painakdmkedalbggbejpphgjikkmafhc": {
+            "blacklist": true
+         },
+         "pajgiddgjidlcajihkjoacjbplimkgfe": {
+            "blacklist": true
+         },
+         "pbdgmppmccanplobanhfkjndjkmmabgk": {
+            "blacklist": true
+         },
+         "pbekednmpdekknlffkiopooofokfmkla": {
+            "blacklist": true
+         },
+         "pbglijbamgmlcpnnpbfjkbdeheejjloj": {
+            "blacklist": true
+         },
+         "pbipaboekjdfhkfifpkofbfnpbnlolji": {
+            "blacklist": true
+         },
+         "pcaedgdgamlfffkfblocmakhgieggoak": {
+            "blacklist": true
+         },
+         "pcojpoljjgnicbhaffkiphphplijgbcc": {
+            "blacklist": true
+         },
+         "pdhjoamffhjhlkiiminjhmihalkfjaee": {
+            "blacklist": true
+         },
+         "peahabnpipmmfiajjjhgfggbeigbmbgp": {
+            "blacklist": true
+         },
+         "peiijdmlgbelnnmnkighhkpeihmmamio": {
+            "blacklist": true
+         },
+         "pfaooklcbjnkgconjjepimkohgcjmdji": {
+            "blacklist": true
+         },
+         "pfcelnbmkeoaeicedjomcjkcammlkdbk": {
+            "blacklist": true
+         },
+         "pfckhplmfbblecglndaigpojefidapai": {
+            "blacklist": true
+         },
+         "pfgmgcnbngcnhjddppmnloflcidemopc": {
+            "blacklist": true
+         },
+         "pfhlnanelpgjbhndafjamnpfhkjadoip": {
+            "blacklist": true
+         },
+         "pfoiaildicnbcjojocjlpcibenphhbln": {
+            "blacklist": true
+         },
+         "pfonklmafadkmcedjlodommcoipgbcde": {
+            "blacklist": true
+         },
+         "pgelifedkjaohmjehecojkfldinjlamn": {
+            "blacklist": true
+         },
+         "pgjpnfpidejcmjibaaohcmehfohacckf": {
+            "blacklist": true
+         },
+         "pgkcfihepeihdlfphbndagmompiakeci": {
+            "blacklist": true
+         },
+         "pgldfhecfiofkhnbgcncepnkjkeoahlk": {
+            "blacklist": true
+         },
+         "pgmfkblbflahhponhjmkcnpjinenhlnc": {
+            "blacklist": true
+         },
+         "pgmpnhbchhaningbkefchpdalnimjijd": {
+            "blacklist": true
+         },
+         "phkpgooenaonkpnabopdbjjfmphclela": {
+            "blacklist": true
+         },
+         "pihcfdffalbcnmbghijdfcaanagapelf": {
+            "blacklist": true
+         },
+         "pjdhkkcnlbfebiokpeghfffajaabahfo": {
+            "blacklist": true
+         },
+         "pjgbfgdpkbfimabdalhjmmeeelbmkcac": {
+            "blacklist": true
+         },
+         "pjloefkigphblpjminnlpbhjchjafcfc": {
+            "blacklist": true
+         },
+         "pkbbbncikcipejaiiiioboongndhmjgl": {
+            "blacklist": true
+         },
+         "pkbkgagehkkoajkpgnmjegibihpalfdk": {
+            "blacklist": true
+         },
+         "pkbkkendemaimikinaefldfljliecapm": {
+            "blacklist": true
+         },
+         "pkcbihpffghlanbclfmkegjmbijcpobj": {
+            "blacklist": true
+         },
+         "pkdlpbfmpolnhligegklimbccminkioc": {
+            "blacklist": true
+         },
+         "pkhidkonipdjidjglnkfcfhnkfnlefbk": {
+            "blacklist": true
+         },
+         "plfijddblbcdcnammpdmfccchkbdekmm": {
+            "blacklist": true
+         },
+         "pmbjemmaclljifpmnlagkcgpbcipdldb": {
+            "blacklist": true
+         },
+         "pnaaalnkbgjaphhmahecamecmaldknkc": {
+            "blacklist": true
+         },
+         "pnaiiipilbpcceggeanphcpkkihnojan": {
+            "blacklist": true
+         },
+         "pndadpldhngimdmhnajebjldbmcbpjol": {
+            "blacklist": true
+         },
+         "pnnbdjcjeiobikdfikegpclkcimgafpp": {
+            "blacklist": true
+         },
+         "pnpfkfanlgljpkpilhgiimfadggfmhcd": {
+            "blacklist": true
+         },
+         "pnpgiaejfbdapllkchhgchjpdbcpiooa": {
+            "blacklist": true
+         },
+         "pobponmhkpmphbnfhpjdagklbkmjhked": {
+            "blacklist": true
+         },
+         "ppmfajacidhcjbddpgmcmigffpppcadd": {
+            "blacklist": true
+         },
+         "pppagaglfkmlpgobnlenhknilehpmcbo": {
+            "ack_external": true,
+            "active_permissions": {
+               "api": [ "plugin", "tabs" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13021546674609746",
+            "location": 3,
+            "manifest": {
+               "background_page": "background.html",
+               "current_locale": "zh_CN",
+               "default_locale": "zh_CN",
+               "description": "\u652F\u6301360\u7F51\u76FE\u7684\u62E6\u622A\u6B3A\u8BC8\u9493\u9C7C\u7F51\u7AD9\u3001\u62E6\u622A\u6728\u9A6C\u7F51\u7AD9\u4EE5\u53CA\u7F51\u8D2D\u4FDD\u9556\u7B49\u529F\u80FD\u3002",
+               "icons": {
+                  "128": "images/install_logo.png",
+                  "48": "images/extension_logo.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyU+BsuDE3Fi9nztVlQ8wauFtq0piZ3MjXbTARGMquKQPGToduRksz2PeJQh7zlVRoGagKtDbKYsw+9XctbbSzixcXwB3SUhmV0zD/ijsnVq42sQKc9Qebgpvb75n2p8nBHqMBpzw/8nd+AJHsRM6onoL3/WVlu5pbT3YOX151SQIDAQAB",
+               "name": "360\u7F51\u76FE\u5B89\u5168\u4FDD\u62A4",
+               "permissions": [ "tabs", "\u003Call_urls\u003E" ],
+               "plugins": [ {
+                  "path": "plugin/360webshield.dll"
+               } ],
+               "version": "1.0"
+            },
+            "path": "pppagaglfkmlpgobnlenhknilehpmcbo\\1.0_0",
+            "state": 2,
+            "was_installed_by_default": false
+         }
+      },
+      "theme": {
+         "id": "oegogboflfgdoajlmhilbamjblflfibj",
+         "pack": "D:\\Desk\\\u5185\u7F51\\\u8D8A\u72F1\\Chrome_28.0.1500.95\\App\\Google Chrome\\PortableProfile\\Default\\Extensions\\oegogboflfgdoajlmhilbamjblflfibj\\1.0_0\\Cached Theme.pak"
+      },
+      "toolbar": [ "dpplabbmogkhghncfbfdeeokoefdjegm", "cfhdojbkjhnklbpkdaibdccddilifddb", "dhdgffkkebhmkfjojejmpbldmpobfkfo" ],
+      "toolbarsize": -1,
+      "ui": {
+         "developer_mode": true
+      }
+   },
+   "homepage": "http://www.baidu.com/",
+   "homepage_changed": true,
+   "homepage_is_newtabpage": false,
+   "net": {
+      "http_server_properties": {
+         "version": 1
+      }
+   },
+   "ntp": {
+      "app_page_names": [ "\u5E94\u7528" ],
+      "most_visited_blacklist": {
+         "0a99e8a3c6d9cdc4b9040e17e21fb946": null,
+         "17b6917ae09697a5408519e3f4ab1392": null,
+         "305aba305dab85fe9f7442085bb8fce6": null,
+         "53cd5ce4bdbf21fad71a4e077d492274": null,
+         "55da3793b2cfde6d782b24102d6e8579": null,
+         "586c7ddd2d223e759aa2d1307ee18e97": null,
+         "6cf107a5d67f4a1035a4c19f976de310": null,
+         "77acb03057660be5461d66572fb44f81": null,
+         "89325421f722ed72cbd1032df9bdab65": null,
+         "8db429d5a5e40539a50a506d0a5af152": null,
+         "9eacf6825237870f26f0c7977de96c1f": null,
+         "ce0b6f7b10219bacdfd96e25c365bd72": null,
+         "d3f3149c021c86a97fad976660db7339": null,
+         "db0245d9916a440d67d296bde59a2cff": null,
+         "e1890e13ff8ae874fd306e2955bf71fc": null,
+         "e203e98e4c606735cf56db84a002fd22": null,
+         "e3dcb3ad1ff58231187ef800b1653128": null,
+         "f4130d84aa91914ad6a193a75533d25c": null,
+         "fbc7fb5996d3c042f15eee1c65075907": null,
+         "fd2de20747a8b0b212fd9bc473b79fe9": null
+      },
+      "shown_page": 1024
+   },
+   "plugins": {
+      "enabled_internal_pdf3": true,
+      "enabled_nacl": true,
+      "last_internal_directory": "G:\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\Chrome_28.0.1500.95\\App\\Google Chrome",
+      "migrated_to_pepper_flash": true,
+      "plugins_list": [ {
+         "enabled": true,
+         "name": "Shockwave Flash",
+         "path": "G:\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\Chrome_28.0.1500.95\\App\\Google Chrome\\PepperFlash\\pepflashplayer.dll",
+         "version": "11.8.800.97"
+      }, {
+         "enabled": true,
+         "name": "Chrome Remote Desktop Viewer",
+         "path": "internal-remoting-viewer",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Native Client",
+         "path": "G:\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\Chrome_28.0.1500.95\\App\\Google Chrome\\ppGoogleNaClPluginChrome.dll",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Chrome PDF Viewer",
+         "path": "G:\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\Chrome_28.0.1500.95\\App\\Google Chrome\\pdf.dll",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Chrome Toolbox Plugin",
+         "path": "G:\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\Chrome_28.0.1500.95\\App\\Google Chrome\\PortableProfile\\Default\\Extensions\\fjccknnhdnkbanjilpjddjhmkghmachn\\1.0.32_0\\plugin\\convenience.dll",
+         "version": "1, 0, 0, 17"
+      }, {
+         "enabled": true,
+         "name": "Microsoft\u00AE Windows Media Player Firefox Plugin",
+         "path": "G:\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\\u6D4F\u89C8\u5668\\Chrome_28.0.1500.95\\App\\Google Chrome\\PortableProfile\\Default\\Extensions\\hokdglbhghcebcopdbanieangmcamaak\\1.0_0\\np-mswmp.dll",
+         "version": "1.0.0.8"
+      }, {
+         "enabled": true,
+         "name": "Adobe Acrobat",
+         "path": "C:\\Program Files (x86)\\Adobe\\Reader 11.0\\Reader\\Browser\\nppdf32.dll",
+         "version": "11.0.0.379"
+      }, {
+         "enabled": true,
+         "name": "QuickTime Plug-in 7.7.4",
+         "path": "E:\\QuickTime\\plugins\\npqtplugin.dll",
+         "version": "7.7.4 (1680.86)"
+      }, {
+         "enabled": true,
+         "name": "QuickTime Plug-in 7.7.4",
+         "path": "E:\\QuickTime\\plugins\\npqtplugin2.dll",
+         "version": "7.7.4 (1680.86)"
+      }, {
+         "enabled": true,
+         "name": "QuickTime Plug-in 7.7.4",
+         "path": "E:\\QuickTime\\plugins\\npqtplugin3.dll",
+         "version": "7.7.4 (1680.86)"
+      }, {
+         "enabled": true,
+         "name": "QuickTime Plug-in 7.7.4",
+         "path": "E:\\QuickTime\\plugins\\npqtplugin4.dll",
+         "version": "7.7.4 (1680.86)"
+      }, {
+         "enabled": true,
+         "name": "QuickTime Plug-in 7.7.4",
+         "path": "E:\\QuickTime\\plugins\\npqtplugin5.dll",
+         "version": "7.7.4 (1680.86)"
+      }, {
+         "enabled": true,
+         "name": "BaiduPlayerWangpan Browser Plugin",
+         "path": "C:\\Program Files (x86)\\Baidu\\BaiduPlayerBaiduYun\\1.19.1.23\\npxbdyy.dll",
+         "version": "2.0"
+      }, {
+         "enabled": true,
+         "name": "QQ2013",
+         "path": "C:\\Program Files (x86)\\Common Files\\Tencent\\Npchrome\\npactivex.dll",
+         "version": "1.94.5.1"
+      }, {
+         "enabled": true,
+         "name": "Tencent SSO Platform",
+         "path": "C:\\Program Files (x86)\\Common Files\\Tencent\\TXSSO\\1.2.2.32\\Bin\\npSSOAxCtrlForPTLogin.dll",
+         "version": "1.0.1.13"
+      }, {
+         "enabled": true,
+         "name": "Thunder DapCtrl NPAPI Plugin",
+         "path": "C:\\Program Files (x86)\\Common Files\\Thunder Network\\KanKan\\npDapCtrl.3.1.0.7.(628).dll",
+         "version": "3, 1, 0, 7"
+      }, {
+         "enabled": true,
+         "name": "Google Update",
+         "path": "C:\\Program Files (x86)\\Google\\Update\\1.3.22.3\\npGoogleUpdate3.dll",
+         "version": "1.3.22.3"
+      }, {
+         "enabled": true,
+         "name": "QQMail Plugin",
+         "path": "C:\\Program Files (x86)\\QQMailPlugin\\npQQMailWebKit.dll",
+         "version": "1.0.0.22"
+      }, {
+         "enabled": true,
+         "name": "Tencent FTN plug-in",
+         "path": "C:\\Program Files (x86)\\QQMailPlugin\\nptxftnWebKit.dll",
+         "version": "1, 0, 0, 4"
+      }, {
+         "enabled": true,
+         "name": "QQMusic",
+         "path": "C:\\Program Files (x86)\\Tencent\\QZoneMusic\\2014.1.28.23.0.55\\npQzoneMusic.dll",
+         "version": "9.50.3269.904"
+      }, {
+         "enabled": true,
+         "name": "npQQPhotoDrawEx",
+         "path": "C:\\Program Files (x86)\\Tencent\\Qzone\\npQQPhotoDrawEx.dll",
+         "version": "2, 47, 312, 0813"
+      }, {
+         "enabled": true,
+         "name": "Unity Player",
+         "path": "C:\\Users\\MG\\AppData\\LocalLow\\Unity\\WebPlayer\\loader\\npUnity3D32.dll",
+         "version": "4.0.1.62093"
+      }, {
+         "enabled": true,
+         "name": "npalicdo plugin",
+         "path": "C:\\Users\\MG\\AppData\\Roaming\\alipay\\cf\\npalicdo.dll",
+         "version": "1, 0, 0, 1"
+      }, {
+         "enabled": true,
+         "name": "",
+         "path": "C:\\Users\\MG\\AppData\\Roaming\\baidu\\Baidu Uploader\\npUploader.dll",
+         "version": "2.0.0.3"
+      }, {
+         "enabled": true,
+         "name": "BaiduYunGuanjia Application",
+         "path": "C:\\Users\\MG\\AppData\\Roaming\\baidu\\BaiduYunGuanjia\\npYunWebDetect.dll",
+         "version": "4.4.0.6"
+      }, {
+         "enabled": true,
+         "name": "Java Deployment Toolkit 7.0.150.3",
+         "path": "C:\\Windows\\SysWOW64\\npDeployJava1.dll",
+         "version": "10.15.2.03"
+      }, {
+         "enabled": true,
+         "name": "BaiduSetUp Plugin",
+         "path": "C:\\windows\\Downloaded Program Files\\3788437\\npxbdsetup.dll",
+         "version": "2.0.0.0"
+      }, {
+         "enabled": true,
+         "name": "Shockwave for Director",
+         "path": "C:\\windows\\SysWOW64\\Adobe\\Director\\np32dsw_1204144.dll",
+         "version": "12.0.4r144"
+      }, {
+         "enabled": true,
+         "name": "Shockwave Flash",
+         "path": "C:\\windows\\SysWOW64\\Macromed\\Flash\\NPSWF32_11_8_800_168.dll",
+         "version": "11,8,800,168"
+      }, {
+         "enabled": true,
+         "name": "Alipay Security Control 3",
+         "path": "C:\\windows\\system32\\aliedit\\3.6.0.0\\npAliSecCtrl.dll",
+         "version": "1,0,18,0"
+      }, {
+         "enabled": true,
+         "name": "Alipay webmod control",
+         "path": "C:\\windows\\system32\\aliedit\\3.6.0.0\\npalidcp.dll",
+         "version": "1, 0, 0, 1"
+      }, {
+         "enabled": true,
+         "name": "Alipay security control",
+         "path": "C:\\windows\\system32\\aliedit\\3.6.0.0\\npaliedit.dll",
+         "version": "1, 3, 0, 2"
+      }, {
+         "enabled": true,
+         "name": "Foxit PhantomPDF Plugin for Mozilla",
+         "path": "E:\\FOXIT SOFTWARE\\FOXIT PHANTOMPDF\\plugins\\npFoxitPhantomPDFPlugin.dll",
+         "version": "2, 2, 3, 0402"
+      }, {
+         "enabled": true,
+         "name": "iTunes Application Detector",
+         "path": "E:\\Program Files (x86)\\iTunes\\Mozilla Plugins\\npitunes.dll",
+         "version": "1.0.1.1"
+      }, {
+         "enabled": true,
+         "name": "XunLei Plugin",
+         "path": "E:\\Thunder\\Data\\npxunlei1.0.0.2.dll",
+         "version": "1, 0, 0, 2"
+      }, {
+         "enabled": true,
+         "name": "Adobe Flash Player"
+      }, {
+         "enabled": false,
+         "name": "Adobe Reader"
+      }, {
+         "enabled": true,
+         "name": "Adobe Shockwave Player"
+      }, {
+         "enabled": true,
+         "name": "Alipay Security Control 3"
+      }, {
+         "enabled": true,
+         "name": "Alipay security control"
+      }, {
+         "enabled": true,
+         "name": "Alipay webmod control"
+      }, {
+         "enabled": true,
+         "name": "BaiduPlayerWangpan Browser Plugin"
+      }, {
+         "enabled": true,
+         "name": "BaiduSetUp Plugin"
+      }, {
+         "enabled": true,
+         "name": "BaiduYunGuanjia Application"
+      }, {
+         "enabled": true,
+         "name": "Chrome PDF Viewer"
+      }, {
+         "enabled": true,
+         "name": "Chrome Remote Desktop Viewer"
+      }, {
+         "enabled": true,
+         "name": "Chrome Toolbox Plugin"
+      }, {
+         "enabled": true,
+         "name": "Foxit PhantomPDF Plugin for Mozilla"
+      }, {
+         "enabled": true,
+         "name": "Google Update"
+      }, {
+         "enabled": true,
+         "name": "Java(TM)"
+      }, {
+         "enabled": true,
+         "name": "Native Client"
+      }, {
+         "enabled": true,
+         "name": "QQ2013"
+      }, {
+         "enabled": true,
+         "name": "QQMail Plugin"
+      }, {
+         "enabled": true,
+         "name": "QQMusic"
+      }, {
+         "enabled": true,
+         "name": "QuickTime Player"
+      }, {
+         "enabled": true,
+         "name": "Tencent FTN plug-in"
+      }, {
+         "enabled": true,
+         "name": "Tencent SSO Platform"
+      }, {
+         "enabled": true,
+         "name": "Thunder DapCtrl NPAPI Plugin"
+      }, {
+         "enabled": true,
+         "name": "Unity Player"
+      }, {
+         "enabled": true,
+         "name": "Windows Media Player"
+      }, {
+         "enabled": true,
+         "name": "XunLei Plugin"
+      }, {
+         "enabled": true,
+         "name": "iTunes Application Detector"
+      }, {
+         "enabled": true,
+         "name": "npQQPhotoDrawEx"
+      }, {
+         "enabled": true,
+         "name": "npUploader"
+      }, {
+         "enabled": true,
+         "name": "npalicdo plugin"
+      } ],
+      "removed_old_component_pepper_flash_settings": true,
+      "show_details": true
+   },
+   "printing": {
+      "print_preview_sticky_settings": {
+         "appState": "{\"version\":2,\"isGcpPromoDismissed\":false,\"selectedDestinationId\":\"Save as PDF\",\"selectedDestinationOrigin\":\"local\"}"
+      }
+   },
+   "profile": {
+      "avatar_index": 0,
+      "content_settings": {
+         "clear_on_exit_migrated": true,
+         "pattern_pairs": {
+            "*,*": {
+               "per_plugin": {
+                  "adobe-flash-player": 1,
+                  "adobe-shockwave": 1
+               }
+            },
+            "[*.]pan.baidu.com,*": {
+               "popups": 1
+            },
+            "[*.]v.youku.com,*": {
+               "fullscreen": 1
+            },
+            "[*.]www.iqiyi.com,*": {
+               "fullscreen": 1
+            },
+            "[*.]www.youtube.com,*": {
+               "fullscreen": 1
+            },
+            "file:///Desk/%E5%86%85%E7%BD%91/ckplayer6.3%E5%AE%8C%E6%95%B4%E7%89%88/ckplayer/ckplayer.swf,*": {
+               "popups": 1
+            },
+            "http://65.255.34.7,*": {
+               "fullscreen": 1
+            },
+            "http://bt.neu6.edu.cn:80,*": {
+               "notifications": 1
+            },
+            "http://www.bilibili.tv:80,*": {
+               "notifications": 1
+            },
+            "https://[*.]www.apple.com:443,*": {
+               "plugins": 1
+            }
+         },
+         "plugin_whitelist": {
+            "adobe-flash-player": true,
+            "adobe-shockwave": true
+         },
+         "pref_version": 1
+      },
+      "created_by_version": "28.0.1500.95",
+      "exit_type": "Normal",
+      "exited_cleanly": true,
+      "is_managed": false,
+      "name": "\u7B2C 1 \u4F4D\u7528\u6237"
+   },
+   "savefile": {
+      "default_directory": "C:\\Users\\MG\\Desktop\\\u9009\u8BFE",
+      "type": 0
+   },
+   "selectfile": {
+      "last_directory": "C:\\Users\\MG\\Downloads"
+   },
+   "session": {
+      "restore_on_startup": 5,
+      "restore_on_startup_migrated": true,
+      "urls_to_restore_on_startup": [ "http://www.mehao123.com/", "http://www.baidu.com/" ]
+   },
+   "sync": {
+      "suppress_start": true
+   },
+   "translate_accepted_count": {
+      "en": 0,
+      "ja": 6,
+      "ko": 0,
+      "ru": 1,
+      "zh-TW": 0
+   },
+   "translate_denied_count": {
+      "en": 5,
+      "ja": 0,
+      "ko": 1,
+      "ru": 0,
+      "zh-TW": 9
+   },
+   "translate_language_blacklist": [ "en" ],
+   "translate_site_blacklist": [ "www.youtube.com" ],
+   "translate_whitelists": {
+      "ja": "zh-CN"
+   }
+}

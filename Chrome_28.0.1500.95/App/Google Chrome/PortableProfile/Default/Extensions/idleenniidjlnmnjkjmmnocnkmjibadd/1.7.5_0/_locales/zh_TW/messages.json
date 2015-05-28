@@ -1,0 +1,14 @@
+{
+   "description": {
+      "message": "\u4E0B\u8F09\u5728\u7DDA\u97F3\u6A02\u63D2\u4EF6\uFF0C\u652F\u6301\u8C46\u74E3\uFF0C\u8766\u7C73\uFF0CJing.fm\uFF0CSongTaste\uFF0C\u843D\u7DB2\uFF0C\u4EBA\u4EBA\u96FB\u53F0\uFF0CQQ\u97F3\u6A02\uFF0C\u7DB2\u6613\u4E91\u97F3\u6A02\uFF0C\u65B0\u6D6A\u6A02\u5EAB\uFF0C\u641C\u72D7\u97F3\u6A02\uFF0CQQ\u97F3\u6A02\u96FB\u53F0\uFF0C\u9177\u6211\uFF0CSoundCloud\uFF0Cbandcamp.com\uFF0C indievox.com\u7B49"
+   },
+   "moveleft": {
+      "message": "\u9760\u5DE6"
+   },
+   "moveright": {
+      "message": "\u9760\u53F3"
+   },
+   "name": {
+      "message": "\u8072\u6D77\u76DC"
+   }
+}

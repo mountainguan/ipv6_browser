@@ -1,0 +1,15 @@
+{
+   "content_scripts": [ {
+      "exclude_globs": [  ],
+      "exclude_matches": [  ],
+      "include_globs": [  ],
+      "js": [ "script.js" ],
+      "matches": [ "http://222.141.53.5/iplay.html*", "http://61.147.76.6/iplay.html*", "http://dynamic.cloud.vip.xunlei.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "converted_from_user_script": true,
+   "description": "export thunder lixian url to aria2/wget",
+   "key": "3GZ+cInShQVzYXq7rH1eGs9MJzvDa4Dncgo4vQgLj/0=",
+   "name": "ThunderLixianExporter",
+   "version": "0.51"
+}

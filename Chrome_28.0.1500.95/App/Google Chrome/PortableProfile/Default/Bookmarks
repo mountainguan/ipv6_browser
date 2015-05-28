@@ -1,0 +1,90 @@
+{
+   "checksum": "96ba7d694ac8ccdbc9242c58fa582ca2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13019736328000000",
+            "id": "26",
+            "name": "",
+            "type": "url",
+            "url": "https://twitter.com/"
+         }, {
+            "date_added": "13019736346000000",
+            "id": "27",
+            "name": "",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13022745585000000",
+            "id": "43",
+            "name": "",
+            "type": "url",
+            "url": "http://www.google.com/ncr"
+         }, {
+            "date_added": "13033134289910466",
+            "id": "53",
+            "name": "",
+            "type": "url",
+            "url": "http://nana.dgut.edu.cn/index.php?c=thread&fid=49"
+         }, {
+            "date_added": "13033153247320724",
+            "id": "55",
+            "name": "",
+            "type": "url",
+            "url": "http://www.youtube.com/"
+         }, {
+            "date_added": "13033153278409724",
+            "id": "57",
+            "name": "",
+            "type": "url",
+            "url": "http://www.baidu.com/"
+         }, {
+            "date_added": "13033315540257917",
+            "id": "60",
+            "name": "",
+            "type": "url",
+            "url": "http://www.xiami.com/"
+         }, {
+            "date_added": "13033735493962181",
+            "id": "67",
+            "name": "",
+            "type": "url",
+            "url": "http://bt.neu6.edu.cn/forum.php"
+         }, {
+            "date_added": "13061984809835901",
+            "id": "80",
+            "name": "ipv6\u5269\u4F59\u6D41\u91CF\u67E5\u8BE2",
+            "type": "url",
+            "url": "http://common-ipv4toipv6-monitor.appspot.com/page/greatagent-ga"
+         }, {
+            "date_added": "13061985013026405",
+            "id": "81",
+            "name": "\u89C6\u9891\u8F6C\u6362",
+            "type": "url",
+            "url": "javascript:(function(){location.href=location.href.replace(/\\.(com|tv)\\//,'xia.$1/').replace('https://','http://');})();"
+         } ],
+         "date_added": "13021060913438250",
+         "date_modified": "13061985930172444",
+         "id": "1",
+         "name": "\u4E66\u7B7E\u680F",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13021060913438250",
+         "date_modified": "0",
+         "id": "2",
+         "name": "\u5176\u4ED6\u4E66\u7B7E",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13021060913438250",
+         "date_modified": "0",
+         "id": "3",
+         "name": "\u79FB\u52A8\u8BBE\u5907\u4E66\u7B7E",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
